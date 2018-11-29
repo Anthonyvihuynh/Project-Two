@@ -1,0 +1,1308 @@
+﻿Family_name,Title,Personal_name,Fate,Age,DepartmentClass,PassengerCrew,Citizenship,Status,City,State,Country,Value,AdultMinor,Sex,Adult,Male,Survived,Passenger
+BLACKSHAW,Master,John J.,Lost,1,Third,Passenger,British,Single,St. Thomas,Ontario,Canada,1,Infant,Male,0,1,0,1
+DOCHERTY,Master,"Thomas William, Jr.",Saved,1,Second,Passenger,USA,Single,New York,New York,USA,1,Infant,Male,0,1,1,1
+PEARL,Miss,Audrey Warren,Saved,1,Saloon,Passenger,USA,Single,New York,New York,USA,1,Infant,Female,0,0,1,1
+BARTLEY,Master,Gordon,Lost,1,Third,Passenger,British,Single,Welland,Ontario,Canada,1,Infant,Male,0,1,0,1
+COOPER,Master,Joseph E.,Lost,1,Third,Passenger,USA,Single,New Bedford,Massachusetts,USA,1,Infant,Male,0,1,0,1
+WILLIAMS,Master,David,Lost,1,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Infant,Male,0,1,0,1
+FISH,Miss,Joan,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Female,0,0,0,1
+HENSHAW,Miss,Mary (Constance?),Lost,1,Second,Passenger,British,Single,Saskatoon,Saskatchewan,Canada,1,Infant,Female,0,0,0,1
+STEWART,Master,John Knox,Saved,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,1,1
+PALMER,Master,Albert,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+SMITH,Master,Hubert,Lost,1,Second,Passenger,British,Single,Ellwood City,Pennsylvania,USA,1,Infant,Male,0,1,0,1
+BOOTH,Master,Nigel Frederick,Saved,1,Second,Passenger,British,Single,Ottawa,Ontario,Canada,1,Infant,Male,0,1,1,1
+MATTHEWSON,Master,Joseph,Lost,1,Second,Passenger,British,Single,Springfield,,USA,1,Infant,Male,0,1,0,1
+CROMPTON,Master,Peter Romilly,Lost,1,Saloon,Passenger,British/USA,Single,Philadephia,Pennsylvania,USA,1,Infant,Male,0,1,0,1
+McKECHAN,Master,Campbell Ballantyne,Saved (died from trauma),1,Second,Passenger,British/USA,Single,Gillespie,Illinois,USA,1,Infant,Male,0,1,0,1
+MITCHELL,Master,"Walter Dawson, Jr.",Lost,1,Second,Passenger,USA,Single,Newark,New Jersey,USA,1,Infant,Male,0,1,0,1
+FRANKUM,Miss,Winifred Annie,Lost,1,Third,Passenger,British/USA,Single,Detroit,Michigan,USA,1,Infant,Female,0,0,0,1
+GOODALL,Master,Jack,Lost,1,Third,Passenger,USA,Single,Kearney,New Jersey,USA,1,Infant,Male,0,1,0,1
+TULLOCH,Miss,Hannah,Lost,1,Second,Passenger,British,Single,Kendall,,USA,1,Infant,Female,0,0,0,1
+WEBSTER,Master,Frederick,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+WEBSTER,Master,Henry,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+COUGHLAN,Master,Jeremiah Bernard,Saved,1,Third,Passenger,USA,Single,Butte,Montana,USA,1,Infant,Male,0,1,1,1
+MARSH,Master,"Thomas, Jr.",Lost,1,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+LOGAN,Master,Robert,Lost,1,Third,Passenger,USA,Single,New York,New York,USA,1,Infant,Male,0,1,0,1
+CRITCHISON,Master,Bernard,Lost,1,Second,Passenger,British,Single,Hamilton,Ontario,Canada,1,Infant,Male,0,1,0,1
+FERRIER,Miss,Sheila,Lost,1,Second,Passenger,British,Single,Penticton,British Columbia,Canada,1,Infant,Female,0,0,0,1
+BURDON,Master,Robert P.,Saved,1,Second,Passenger,British,Single,Winnipeg,Manitoba,Canada,1,Infant,Male,0,1,1,1
+LITTLE,Miss,Alice Laura,Lost,1,Second,Passenger,British,Single,Brooklyn,New York,USA,1,Infant,Female,0,0,0,1
+BRETHERTON,Miss,"Elizabeth ""Betty""",Lost,1,Second,Passenger,USA,Single,Santa Monica,California,USA,1,Infant,Female,0,0,0,1
+JONES,Master,William Edward,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+FERGUSON,Master,Edward,Lost,1,Third,Passenger,USA,Single,Newark,New Jersey,USA,1,Infant,Male,0,1,0,1
+SKAY,Master,Edward,Saved,1,Victualling,Crew,British,,,,,1,Minor,Male,0,1,1,0
+COX,Master,Desmond Francis,Saved,1,Second,Passenger,British (Irish),Single,Winnipeg,Manitoba,Canada,1,Infant,Male,0,1,1,1
+STEPHENS,Master,John Harrison Chattan,Lost,1,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Infant,Male,0,1,0,1
+PYE,Miss,Marjorie,Lost,1,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Infant,Female,0,0,0,1
+RICHARDS,Miss,Dora Millicent,Lost,1,Second,Passenger,USA,Single,Meaderville,Montana,USA,1,Infant,Female,0,0,0,1
+CHANTRY,Miss,Elizabeth Ellen,Lost,1,Second,Passenger,British,Single,Nelson,British Columbia,Canada,1,Infant,Female,0,0,0,1
+BURLEY,Master,Reginald,Lost,1,Second,Passenger,British,Single,Hamilton,Ontario,Canada,1,Infant,Male,0,1,0,1
+CHIRGWIN,Master,Richard,Lost,1,Second,Passenger,British,Single,Havana,,Cuba,1,Infant,Male,0,1,0,1
+McCORKINDALE,Miss,Mary,Lost,1,Second,Passenger,British,Single,Chromo,Colorado,USA,1,Infant,Female,0,0,0,1
+PELLS,Master,John,Lost,1,Second,Passenger,British,Single,Vancouver,British Columbia,Canada,1,Infant,Male,0,1,0,1
+SEMPLE,Master,John,Lost,1,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+SMITH,Miss,Dorothy,Lost,1,Second,Passenger,British,Single,New York,New York,USA,1,Infant,Female,0,0,0,1
+STEVENSON,Miss,Elizabeth P.,Lost,1,Second,Passenger,British,Single,Cleveland,Ohio,USA,1,Infant,Female,0,0,0,1
+WICKINGS-SMITH,Miss,Nancy Eileen Fenn,Saved,1,Second,Passenger,British,Single,Victoria,British Columbia,Canada,1,Infant,Female,0,0,1,1
+PEARL,Miss,Susan Whitewright,Lost,1.5,Saloon,Passenger,USA,Single,New York,New York,USA,1,Infant,Female,0,0,0,1
+GROVES,Master,Frederick,Lost,1.5,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Infant,Male,0,1,0,1
+ABAS,Miss,Beatrice,Lost,2,Second,Passenger,British/Dutch,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+ADAMS,Miss,Joan M.,Lost,2,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Minor,Female,0,0,0,1
+AITKEN,Master,"James Jarvie, Jr.",Lost,2,Second,Passenger,British,Single,Merritt,British Columbia,Canada,1,Minor,Male,0,1,0,1
+ANDERSON,Miss,Barbara Winifred,Saved,2,Second,Passenger,British/USA,Single,Bridgeport,Connecticut,USA,1,Minor,Female,0,0,1,1
+KENNEY,Miss,Mary Bridget,Lost,2,Second,Passenger,British (Irish)/USA,Single,Charlestown,,USA,1,Minor,Female,0,0,0,1
+LAMBIE,Miss,Mary,Lost,2,Second,Passenger,British,Single,Roslyn,,USA,1,Minor,Female,0,0,0,1
+MARICHAL,Miss,Phyllis Renée,Saved,2,Second,Passenger,French,Single,Kingston,Ontario,Canada,1,Minor,Female,0,0,1,1
+DHENIN,Miss,Isabella,Lost,2,Third,Passenger,British,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+WILSON,Miss,Dorothy,Lost,2,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,0,1
+PEARL,Miss,Amy Whitewright Warren,Lost,2.5,Saloon,Passenger,USA,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+COUGHLAN,Miss,Margaret,Lost,2.5,Third,Passenger,USA,Single,Butte,Montana,USA,1,Minor,Female,0,0,0,1
+STOKES,Master,William,Lost,2.5,Second,Passenger,British,Single,Victoria,British Columbia,Canada,1,Minor,Male,0,1,0,1
+WITHERBEE,Master,"Alfred Scott, Jr.",Lost,3,Saloon,Passenger,USA,Single,New York,New York,USA,1,Minor,Male,0,1,0,1
+ACKROYD,Master,Frederick,Lost,3,Second,Passenger,British,Single,Brooklyn,New York,USA,1,Minor,Male,0,1,0,1
+BRETHERTON,Master,Paul,Saved,3,Second,Passenger,USA,Single,Santa Monica,California,USA,1,Minor,Male,0,1,1,1
+GRANDIDGE,Miss,Eva Mary,Lost,3,Second,Passenger,British,Single,Yonkers,New York,USA,1,Minor,Female,0,0,0,1
+STROUD,Miss,Helen,Lost,3,Second,Passenger,British,Single,(New York?),,Mexico (or USA?),1,Minor,Female,0,0,0,1
+WEBSTER,Master,William,Saved,3,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,1,1
+ANTILA,Master,Jan,Saved,3,Third,Passenger,USA,Single,Deported,,,1,Minor,Male,0,1,1,1
+BODELL,Master,"Thomas, Jr.",Lost,3,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,0,1
+COUGHLAN,Master,"John, Jr.",Saved,3,Third,Passenger,USA,Single,Butte,Montana,USA,1,Minor,Male,0,1,1,1
+BOOTH-JONES,Master,Percival,Lost,4,Second,Passenger,British,Single,New York,New York,USA,1,Minor,Male,0,1,0,1
+GRAY,Master,Stuart James,Lost,4,Second,Passenger,USA,Single,Los Angeles,California,USA,1,Minor,Male,0,1,0,1
+NEVILLE,Miss,Muriel,Lost,4,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,0,1
+PALMER,Miss,Olive,Lost,4,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,0,1
+PIRIE,Master,Arthur,Lost,4,Second,Passenger,British,Single,Lynn,,USA,1,Minor,Male,0,1,0,1
+RICHARDS,Master,Cecil Harry,Saved,4,Second,Passenger,USA,Single,Meaderville,Montana,USA,1,Minor,Male,0,1,1,1
+ANTILA,Master,Carl,Saved,4,Third,Passenger,USA,Single,Deported,,,1,Minor,Male,0,1,1,1
+BARTLEY,Master,Arthur,Lost,4,Third,Passenger,British,Single,Welland,Ontario,Canada,1,Minor,Male,0,1,0,1
+FRANKUM,Master,Frederick George,Lost,4,Third,Passenger,British,Single,Detroit,Michigan,USA,1,Minor,Male,0,1,0,1
+RILEY,Miss,Ethel,Saved,4,Third,Passenger,British,Single,Boston,Massachusetts,USA,1,Minor,Female,0,0,1,1
+RILEY,Miss,Sutcliffe,Saved,4,Third,Passenger,British,Single,Boston,Massachusetts,USA,1,Minor,Female,0,0,1,1
+WILLIAMS,Miss,Florence,Lost,4,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Minor,Female,0,0,0,1
+WILSON,Master,Frank,Lost,4,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,0,1
+MURRAY,Master,Walter,Lost,4.25,Third,Passenger,British,Single,Chicago,Illinois,USA,1,Minor,Male,0,1,0,1
+HODGES,Master,Dean Winston,Lost,5,Saloon,Passenger,USA,Single,Philadephia,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+PEARL,Master,Stuart Duncan Day,Saved,5,Saloon,Passenger,USA,Single,New York,New York,USA,1,Minor,Male,0,1,1,1
+LEWIS,Miss,Edith,Saved,5,Second,Passenger,British,Single,New York,New York,USA,1,Minor,Female,0,0,1,1
+TIERNEY,Miss,Nina,Lost,5,Second,Passenger,British,,Vandegrift,Pennsylvania (?),USA,1,Minor,Female,0,0,0,1
+LAMBERT,Master,William Patrick,Lost,5,Third,Passenger,USA,Single,New York,New York,USA,1,Minor,Male,0,1,0,1
+WILLIAMS,Miss,Ethel,Lost,5,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Minor,Female,0,0,0,1
+CROMPTON,Master,John David,Lost,6,Saloon,Passenger,British/USA,Single,Philadephia,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+ABAS,Miss,Isabel,Lost,6,Second,Passenger,British/Dutch,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+BAXTER,Master,William,Lost,6,Second,Passenger,British,Single,Welland,Ontario,Canada,1,Minor,Male,0,1,0,1
+DIXON,Master,Stanley,Lost,6,Second,Passenger,British,Single,England,,England,1,Minor,Male,0,1,0,1
+MARICHAL,Miss,"Yvonne ""Eve""",Saved,6,Second,Passenger,French,Single,Kingston,Ontario,Canada,1,Minor,Female,0,0,1,1
+McKECHAN,Master,James,Lost,6,Second,Passenger,British/USA,Single,Gillespie,Illinois,USA,1,Minor,Male,0,1,0,1
+PALMER,Master,Edgar,Lost,6,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,0,1
+SMITH,Miss,Helen,Saved,6,Second,Passenger,British,Single,Ellwood City,Pennsylvania,USA,1,Minor,Female,0,0,1,1
+WILLIAMS,Master,George Albert,Lost,6,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Minor,Male,0,1,0,1
+KAY,Master,Robert Belsher,Saved,7,Second,Passenger,British,Single,Bronx,New York,USA,1,Minor,Male,0,1,1,1
+MAINMAN,Master,Edwin Richard,Saved,7,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Minor,Male,0,1,1,1
+MAINMAN,Miss,Elizabeth,Saved,7,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Minor,Female,0,0,1,1
+McCORKINDALE,Master,Duncan,Lost,7,Second,Passenger,British,Single,Chromo,Colorado,USA,1,Minor,Male,0,1,0,1
+RICHARDS,Master,Thomas Percy,Saved,7,Second,Passenger,British,Single,Meaderville,Montana,USA,1,Minor,Male,0,1,1,1
+FRANKUM,Master,Francis,Saved,7,Third,Passenger,British,Single,Detroit,Michigan,USA,1,Minor,Male,0,1,1,1
+GOODALL,Master,Leonard,Lost,7,Third,Passenger,British,Single,Kearney,New Jersey,USA,1,Minor,Male,0,1,0,1
+LOCKWOOD,Miss,Lily (Lillian),Lost,7,Third,Passenger,USA,Single,Harrison,,USA,1,Minor,Female,0,0,0,1
+HODGES,Master,"William Sterling, Jr.",Lost,8,Saloon,Passenger,USA,Single,Philadephia,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+LUCK,Master,Kenneth Field,Lost,8,Saloon,Passenger,USA,Single,Worcester,Massachusetts,USA,1,Minor,Male,0,1,0,1
+BOOTH-JONES,Miss,Ailsa Georgina,Lost,8,Second,Passenger,British,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+BRAMMER,Miss,Edith,Saved,8,Second,Passenger,British,Single,Trenton,New Jersey,USA,1,Minor,Female,0,0,1,1
+FISH,Miss,Marion Enid,Saved,8,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,1,1
+LAMBIE,Miss,Elizabeth,Lost,8,Second,Passenger,British,Single,Roslyn,,USA,1,Minor,Female,0,0,0,1
+OWENS,Master,Reginald (son of Cecelia Owens),Lost,8,Second,Passenger,British,Single,Ellwood City,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+SCOTT,Master,"Arthur, Jr.",Saved,8,Third,Passenger,British,Single,No. Adams,,USA,1,Minor,Male,0,1,1,1
+CROMPTON,Master,Paul Romilly,Lost,9,Saloon,Passenger,British/USA,Single,Philadephia,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+LUCK,Master,Elbridge Courtlandt,Lost,9,Saloon,Passenger,USA,Single,Worcester,Massachusetts,USA,1,Minor,Male,0,1,0,1
+BARKER,Miss,Winifred,Lost,9,Second,Passenger,USA,Single,Trenton,New Jersey,USA,1,Minor,Female,0,0,0,1
+BURLEY,Miss,Doris Florence,Lost,9,Second,Passenger,British,Single,Hamilton,Ontario,Canada,1,Minor,Female,0,0,0,1
+WILLIAMS,Miss,Edith,Saved,9,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Minor,Female,0,0,1,1
+CROMPTON,Miss,Catherine Mary,Lost,10,Saloon,Passenger,British,Single,Philadephia,Pennsylvania,USA,1,Minor,Female,0,0,0,1
+FISH,Miss,Sadie Eileen,Saved,10,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,1,1
+HENDERSON,Master,"Harris ""Huntley""",Saved,10,Second,Passenger,British,Single,Montréal,Quebec,Canada,1,Minor,Male,0,1,1,1
+OWENS,Master,Ronald (son of Cecelia Owens),Lost,10,Second,Passenger,British,Single,Ellwood City,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+PIRIE,Miss,Margaret,Lost,10,Second,Passenger,British,Single,Lynn,,USA,1,Minor,Female,0,0,0,1
+TIJOU,Master,Howard Walter,Lost,10,Second,Passenger,British,,Toronto,Ontario,Canada,1,Minor,Male,0,1,0,1
+DHENIN,Master,"Thomas, Jr.",Lost,10,Third,Passenger,British,Single,New York,New York,USA,1,Minor,Male,0,1,0,1
+TOPPING,Miss,Hilda,Lost,10,Third,Passenger,British,Single,Brooklyn,New York,USA,1,Minor,Female,0,0,0,1
+WILLIAMS,Master,John Edward,Saved,10,Third,Passenger,British/USA,Single,Plainfield,New Jersey,USA,1,Minor,Male,0,1,1,1
+GARDNER,Master,"William Gerard ""Willie""",Saved,11,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,1,1
+GREENWOOD,Master,Ronald Sutcliffe,Lost,11,Second,Passenger,USA,Single,Lawrence,(?) Kansas,USA,1,Minor,Male,0,1,0,1
+LOHDEN,Miss,Rose Elsie,Saved,11,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,1,1
+NEVILLE,Master,Charles,Lost,11,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,0,1
+HOOK,Master,Frank (son of George),Saved,11,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,1,1
+LOCKWOOD,Master,Clifford,Lost,11,Third,Passenger,British,Single,Harrison,,USA,1,Minor,Male,0,1,0,1
+CROMPTON,Miss,Alberta,Lost,12,Saloon,Passenger,British,Single,Philadephia,Pennsylvania,USA,1,Minor,Female,0,0,0,1
+DOLPHIN,Miss,Avis Gertrude,Saved,12,Second,Passenger,British,Single,St. Thomas,Ontario,Canada,1,Minor,Female,0,0,1,1
+HOOK,Miss,Elsie (daughter of George),Saved,12,Third,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,1,1
+PARTLETT,Miss,Enid,Lost,13,Second,Passenger,British,Single,New York,New York,USA,1,Minor,Female,0,0,0,1
+CROMPTON,Master,Stephen Hugh,Lost,14,Saloon,Passenger,British,Single,Philadephia,Pennsylvania,USA,1,Minor,Male,0,1,0,1
+NEVILLE,Miss,Evelyn,Lost,14,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,0,1
+TAYLOR,Master,Stanley Robert,Saved,14,Second,Passenger,USA,,Dorchester,Massachusetts,USA,1,Minor,Male,0,1,1,1
+ALLAN,Miss,Gwendolyn Evelyn,Lost,15,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Minor,Female,0,0,0,1
+HOLT,Master,William Robert Grattan,Saved,15,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Minor,Male,0,1,1,1
+LONEY,Miss,Virginia Bruce,Saved,15,Saloon,Passenger,USA,Single,New York,New York,USA,1,Minor,Female,0,0,1,1
+BAILEY,Miss,Ivy,Lost,15,Second,Passenger,British,Single,Nelson,British Columbia,Canada,1,Minor,Female,0,0,0,1
+SHARP,Master,George,Saved,15,Third,Passenger,British,Single,Crooksville,,USA,1,Minor,Male,0,1,1,1
+BURROWS,Master,William,Saved,15,Victualling,Crew,British,,,,,1,Minor,Male,0,1,1,0
+CLARK,Master,Robert James,Saved,15,Victualling,Crew,British,,,,,1,Minor,Male,0,1,1,0
+WIENCKE,Master,Paul,Lost,16,Engineering,Crew,British,,Liverpool,,England,1,Minor,Male,0,1,0,0
+ALLAN,Miss,Anna Marjory,Lost,16,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Minor,Female,0,0,0,1
+AITKEN,Miss,"Crissy ""Chrissie"" Nicol Marshall Lizzie Stark",Saved,16,Second,Passenger,British,Single,Merritt,British Columbia,Canada,1,Minor,Female,0,0,1,1
+GARDNER,Master,Eric,Saved,16,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Male,0,1,1,1
+KAYE,Miss,Kathleen (Hannah Ermine Kathleen Kirschbaum),Saved,16,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Minor,Female,0,0,1,1
+MacFARQUHAR,Miss,Grace Marie,Saved,16,Second,Passenger,USA,Single,Stratford,Connecticut,USA,1,Minor,Female,0,0,1,1
+MAINMAN,Miss,"Mary ""Molly"" Frances",Saved,16,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Minor,Female,0,0,1,1
+MYERS,Master,William Ellason G.,Saved,16,Second,Passenger,British,Single,Stratford,Ontario,Canada,1,Minor,Male,0,1,1,1
+PETRONSIAN,Mr.,Kahraman,Saved,16,Third,Passenger,Russian,,New York,New York,USA,1,Minor,Male,0,1,1,1
+HOLTON,Master,Benjamin R. H.,Saved,16,Victualling,Crew,British,,,,,1,Minor,Male,0,1,1,0
+HORRIGAN,Master,Cornelius,Saved,16,Victualling,Crew,British,,,,,1,Minor,Male,0,1,1,0
+RONNAN,Mr. ,George,Lost,16,Victualling,Crew,British,,,,,1,Minor,Male,0,1,0,0
+WYNNE,Master,George,Saved,16,Victualling,Crew,British,,Liverpool,,England,1,Minor,Male,0,1,1,0
+QUINN,Master,"Thomas (son of Thomas Quinn, AB seaman)",Lost,17,Deck,Crew,British,Single,,,,1,Minor,Male,0,1,0,0
+MYLES,Mr.,Peter,Lost,17,Engineering,Crew,British,,,,,1,Minor,Male,0,1,0,0
+PEACOCK,Master,"Thomas Edward, Jr.",Saved,17,Second,Passenger,British,Single,Jerome,Arizona,USA,1,Minor,Male,0,1,1,1
+SWALLOW,Mr., Allan,Lost,17,Third,Passenger,British,,Hamilton,,USA,1,Minor,Male,0,1,0,1
+BATES,Master,George,Lost,17,Victualling,Crew,British,,,,,1,Minor,Male,0,1,0,0
+MORTON,Mr.,Leslie Noel (brother of John),Saved,18,Deck,Crew,British,Single,,,,1,Adult,Male,1,1,1,0
+BARRETT,Mr.,Daniel,Lost,18,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+LINES,Miss,Alice Maud (nurse to the Pearls),Saved,18,Saloon,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+BEATTIE,Mr.,Allan Martin,Saved,18,Second,Passenger,British,Single,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,1,1
+GRIMSHAW,Mr.,Arthur,Lost,18,Second,Passenger,British,,Brooklyn,New York,USA,1,Adult,Male,1,1,0,1
+MARTIN-DAVEY,Mr.,Arthur,Lost,18,Second,Passenger,British,Single,Vancouver,British Columbia,Canada,1,Adult,Male,1,1,0,1
+NEILSON,Mr.,Charles H.,Lost,18,Second,Passenger,British,Single,Brooklyn,New York,USA,1,Adult,Male,1,1,0,1
+COXON,Mr.,Geoffrey Thomley,Lost,18,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+THOMPSON,Mr.,Norman,Lost,18,Third,Passenger,British,Single,Canton,Ohio,USA,1,Adult,Male,1,1,0,1
+HUME,Mr.,James,Saved,19,Deck,Crew,British (Irish),,Belfast,,Ireland,1,Adult,Male,1,1,1,0
+LOUGHRAN,Mr.,Patrick,Lost,19,Engineering,Crew,British (Irish),,Newry,,Ireland,1,Adult,Male,1,1,0,0
+O’CONNELL,Mr.,John,Saved,19,Engineering,Crew,British,Single,Liverpool,,England,1,Adult,Male,1,1,1,0
+ADAMS,Mr.,William McMillan,Saved,19,Saloon,Passenger,USA,Single,Cambridge,,England,1,Adult,Male,1,1,1,1
+CARSON,Miss,Henrietta,Lost,19,Second,Passenger,British,Single,Sherbrooke,Quebec,Canada,1,Adult,Female,1,0,0,1
+EGANA,Mr.,Vincente,Saved,19,Second,Passenger,Spanish,,New York,New York,USA,1,Adult,Male,1,1,1,1
+EXLEY,Miss,Ida,Lost,19,Second,Passenger,British,Single,North Braintree,Massachusetts,USA,1,Adult,Female,1,0,0,1
+MAINMAN,Mr.,Alfred S.,Lost,19,Second,Passenger,British,Single,Edmonton,Alberta,Canada,1,Adult,Male,1,1,0,1
+MUSTOE-KINCH,Mr.,William,Lost,19,Second,Passenger,British,Single,Cleveland,Ohio,USA,1,Adult,Male,1,1,0,1
+PAYNE,Mr.,Martin Sylvester,Saved,19,Second,Passenger,British,,Springfield,Massachusetts,USA,1,Adult,Male,1,1,1,1
+KELLY,Miss,Annie,Lost,19,Third,Passenger,British,Single,Deported,,,1,Adult,Female,1,0,0,1
+SHKERDOFF,Mr.,Jacob,Saved,19,Third,Passenger,Russian,,Pittsburgh,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+TAYLOR,Mrs.,Harold William (Lucy Haddock),Saved,19,Third,Passenger,British,Married,Niagara Falls,New York,USA,1,Adult,Female,1,0,1,1
+TWINING,Mr.,Edwin,Lost,19,Third,Passenger,British/USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+JOYNSON,Mr. ,Edgar H.,Saved,19,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+LAPPHANE,Mr. ,Charles,Lost,19,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+ROBERTS,Mr. ,John,Lost,19,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BOWDEN,Mr.,Joseph ,Saved,19,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+MORTON,Mr.,John Clifford (brother of Leslie),Saved,20,Deck,Crew,British,Single,,,,1,Adult,Male,1,1,1,0
+COONEY,Mr.,"Michael, Jr.",Lost,20,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+DWYER,Mr.,James,Saved,20,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,1,0
+BURNSIDE,Miss,Iris Margaret,Lost,20,Saloon,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+SECCOMBE,Mr.,Percy W.,Lost,20,Saloon,Passenger,USA,Single,Petersborough,New Hampshire,USA,1,Adult,Male,1,1,0,1
+AISTON,Mr.,Mr. Joseph,Saved,20,Second,Passenger,British,,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+WALLACE,Mr.,Cyril John George,Saved,20,Second,Passenger,British,Single,Holyoke,,USA,1,Adult,Male,1,1,1,1
+BARROW,Mrs.,Donald George M. (May),Lost,20,Third,Passenger,British,Married,Maple Creek,,Canada,1,Adult,Female,1,0,0,1
+LUCKO,Mr.,Timofej,Lost,20,Third,Passenger,Russian,,Hastings,,USA,1,Adult,Male,1,1,0,1
+DRISCOLL,Mr. ,Cornelius,Lost,20,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+O'MAHONEY,Mr.,Thomas,Saved,21,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+CHARLES,Miss,Doris Maud,Saved,21,Saloon,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+DUNSMUIR,Mr.,"James A., Jr.",Lost,21,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+ABERCROMBY,Mr.,Ralph Frank,Lost,21,Second,Passenger,British,,Cincinnati,Ohio,USA,1,Adult,Male,1,1,0,1
+CHANTRY,Mrs.,Harold (Mina),Lost,21,Second,Passenger,British,Married,Nelson,British Columbia,Canada,1,Adult,Female,1,0,0,1
+EHRHARDT,Mr.,Herbert W.,Saved,21,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+FERRIER,Mrs.,Alexander Hubert Buxton (Mary Beata Elizabeth Hayter Stevens),Saved,21,Second,Passenger,British,Married,Penticton,British Columbia,Canada,1,Adult,Female,1,0,1,1
+HORSBURGH,Miss,Martha,Lost,21,Second,Passenger,British,Single,Bernardsville,(?) New York,USA,1,Adult,Female,1,0,0,1
+LINTOTT,Mr.,Roy Iver,Lost,21,Second,Passenger,British,,Calgary,Alberta,Canada,1,Adult,Male,1,1,0,1
+MAINMAN,Mr.,John V.,Lost,21,Second,Passenger,British,,Edmonton,Alberta,Canada,1,Adult,Male,1,1,0,1
+McGOVERN,Miss,"Mary G. ""Mazie""",Lost,21,Second,Passenger,USA,Single,Bloomfield,New Jersey,USA,1,Adult,Female,1,0,0,1
+TULLOCH,Mrs.,James (Agnes Kerr),Lost,21,Second,Passenger,British,Married,Kendall,,USA,1,Adult,Female,1,0,0,1
+WARNER,Mr.,Tertius Selwyn,Lost,21,Second,Passenger,British,,London,Ontario,Canada,1,Adult,Male,1,1,0,1
+WILD,Miss,Agnes,Saved,21,Second,Passenger,British,Single,Paterson,New Jersey,USA,1,Adult,Female,1,0,1,1
+CHWYSINK,Mr.,Pawel,Lost,21,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+CROSS,Mr.,Charles Ivor,Lost,21,Third,Passenger,British,,Camden,New Jersey,USA,1,Adult,Male,1,1,0,1
+LONG,Mr.,Harry,Lost,21,Third,Passenger,British,,Detroit,Michigan,USA,1,Adult,Male,1,1,0,1
+PALMER,Mr.,Charles,Lost,21,Third,Passenger,British,,Camden,New Jersey,USA,1,Adult,Male,1,1,0,1
+SHKERDOFF,Mr.,Archie,Lost,21,Third,Passenger,Russian,,Pittsburgh,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+TAYLOR,Mr.,Harold William,Saved,21,Third,Passenger,British,Married,Niagara Falls,New York,USA,1,Adult,Male,1,1,1,1
+LEE,Mr. ,Richard ,Saved,21,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+ROURKE,Mr. ,Stanley,Saved,21,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+FINNEGAN,Mr.,Edward,Lost,22,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+McCANN,Mr.,Thomas Michael,Lost,22,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+LASSETTER,Lieutenant,Frederick Macquarie A. (Antill?),Saved,22,Saloon,Passenger,British,Single,Sydney (?),,,1,Adult,Male,1,1,1,1
+CHANTRY,Mr.,Harold,Lost,22,Second,Passenger,British,Married,Nelson,British Columbia,Canada,1,Adult,Male,1,1,0,1
+GALLIGAN,Miss,Margaret,Saved,22,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+LUCAS,Mr.,Francis John,Saved,22,Second,Passenger,British,,Pittsburgh,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+NICHOL,Miss,Mary F.,Lost,22,Second,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+SWEET,Mr.,Frank Harold,Saved,22,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+ANDRIJINE,Mr.,Anisyon,Lost,22,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+CURLEY,Miss,Alice,Lost,22,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+FERRICK,Miss,Margaret,Lost,22,Third,Passenger,British (Irish),Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+KILKENNEY,Miss,Annie,Lost,22,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+MAZURAK,Mr.,"Iwan ""John""",Saved,22,Third,Passenger,Russian,,Waterbury,Massachusetts,USA,1,Adult,Male,1,1,1,1
+McDERMOTT,Mr.,Andrew,Saved,22,Third,Passenger,British,,Boston,Massachusetts,USA,1,Adult,Male,1,1,1,1
+NEILBORSKI,Mr.,Gregory,Lost,22,Third,Passenger,Russian,,Oxford Furnace,,USA,1,Adult,Male,1,1,0,1
+OLESZKO,Mr.,John,Lost,22,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+STACEY,Mr.,Joseph Nelson,Lost,22,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+WAARANEN,Miss,Ellen Marie,Lost,22,Third,Passenger,Russian (Finnish),Single,Worcester,Massachusetts,USA,1,Adult,Female,1,0,0,1
+WARDLE,Mrs.,Frank (Cissie),Lost,22,Third,Passenger,British,Married,Adamsdale,,USA,1,Adult,Female,1,0,0,1
+WOODWORD,Mr.,Robert,Saved,22,Third,Passenger,British,,Niagara Falls,New York,USA,1,Adult,Male,1,1,1,1
+GILROY,Mr. ,Charles Stuart,Lost,22,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+MacKENZIE (McKENZIE?),Mr. ,Kenneth ,Lost,22,Victualling,Crew,British (Irish),,Belfast,,Ireland,1,Adult,Male,1,1,0,0
+COLEMAN,Miss,Susan,Saved,22,Second,Passenger,British,Single,Brooklyn,New York,USA,1,Adult,Female,1,0,1,1
+MURPHY,Mr.,Dennis,Saved,23,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+RAFFERTY,Mr.,Joseph,Lost,23,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+BOULTON,Mr.,Denis Duncan Harold Owen,Saved,23,Saloon,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+BRANDELL,Miss,Josephine Mary,Saved,23,Saloon,Passenger,USA,Divorced,New York,New York,USA,1,Adult,Female,1,0,1,1
+DRAKE,Mr.,Bernard Audley Mervyn,Lost,23,Saloon,Passenger,British,,Detriot,Michigan,USA,1,Adult,Male,1,1,0,1
+LORENSON,Miss,Greta (nurse to the Pearls),Lost,23,Saloon,Passenger,Danish,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+PADLEY,Mrs.,Charles (Florence May Fry),Saved,23,Saloon,Passenger,British,,Vancouver,British Columbia,Canada,1,Adult,Female,1,0,1,1
+RHYS-EVANS,Mr.,Arnold Leslie (secretary to Mr. Thomas),Saved,23,Saloon,Passenger,British,,Cardiff,,Wales,1,Adult,Male,1,1,1,1
+RYERSON,Miss,Laura Mary,Saved,23,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MAYCOCK,Miss,Mary,Saved,23,Second,Passenger,British,Single,Harrison,New Jersey,USA,1,Adult,Female,1,0,1,1
+CLIFT,Mr.,Horance,Lost,23,Third,Passenger,British,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+DAWSON,Mr.,Walter,Saved,23,Third,Passenger,British,,Lowell,Massachusetts,USA,1,Adult,Male,1,1,1,1
+FERGUSON,Mrs.,Samuel James (Mary Agnes),Lost,23,Third,Passenger,USA,Married,Newark,,USA,1,Adult,Female,1,0,0,1
+GLEASON,Miss,Katherine,Lost,23,Third,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+GOODE,Mr.,George,Lost,23,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+LICHACZOW,Mr.,Ignatii,Lost,23,Third,Passenger,Russian,,Windsor,,USA,1,Adult,Male,1,1,0,1
+LOGNUNIETZ,Mr.,Wasili,Lost,23,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+McANEMY,Mr.,John,Lost,23,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+O'CONNOR,Mr.,John,Lost,23,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+PARKES,Mr.,William Henry,Saved,23,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,1,1
+STEPHEN,Mr.,Thomas Ohan,Saved,23,Third,Passenger,USA,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+STOCKTON,Mr.,Alfred,Saved,23,Third,Passenger,British,,Marion,,USA,1,Adult,Male,1,1,1,1
+STEWART,Mr. ,Thomas Edgar,Lost,23,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+WIGGINS,Mr. ,William,Saved,23,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BESTIC,Mr.,Albert Arthur,Saved,24,Deck,Crew,British (Irish),Single,Dublin,,Ireland,1,Adult,Male,1,1,1,0
+SIKKING,Mr.,James,Saved,24,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BROWN,Mr.,Patrick,Lost,24,Engineering,Crew,British (Irish),,Kilboyne,,Ireland,1,Adult,Male,1,1,0,0
+COYNE (Coyle),Mr.,Patrick,Lost,24,Engineering,Crew,British (Irish),,Ballyheane,,Ireland,1,Adult,Male,1,1,0,0
+ORANGE,Mr.,John,Lost,24,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+RIGBY,Mr.,G.,Lost,24,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BRAITHWAITE,Miss,Dorothy Douglas,Lost,24,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Adult,Female,1,0,0,1
+DOUGALL,Miss,Catherine,Lost,24,Saloon,Passenger,British,Single,Quebec,Quebec,Canada,1,Adult,Female,1,0,0,1
+HUTCHINSON,Miss,Phyllis,Lost,24,Saloon,Passenger,British,Single (?),Cheshire,,England,1,Adult,Female,1,0,0,1
+WITHERBEE,Mrs.,Alfred Scott (Beatrice Wilhemena Theodora LaTouche),Saved,24,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+BURDON,Mrs.,Andrew Thompson (Ellen Mary Rickwood),Saved,24,Second,Passenger,British,Married,Winnipeg,Manitoba,Canada,1,Adult,Female,1,0,1,1
+FRENCH,Miss,Grace Hope,Saved,24,Second,Passenger,British,Single,Passaic or Garfield,New Jersey or Ohio,USA,1,Adult,Female,1,0,1,1
+GRAY,Mrs.,William Hiram (Terence Florence Healey),Lost,24,Second,Passenger,USA,Married,Los Angeles,California,USA,1,Adult,Female,1,0,0,1
+JONES,Mr.,"William ""Parry"" Gwynn(e)",Saved,24,Second,Passenger,British,,Blaina,Monmouthshire,Wales,1,Adult,Male,1,1,1,1
+LITTLE,Mrs.,J. (Margaret),Lost,24,Second,Passenger,British,Married,Brooklyn,New York,USA,1,Adult,Female,1,0,0,1
+McFAYDEN,Mr.,Hugh,Saved,24,Second,Passenger,British,,Galt,Ontario,Canada,1,Adult,Male,1,1,1,1
+MOORE,Mr.,John,Saved,24,Second,Passenger,British,Single,Manchester Green,Connecticut,USA,1,Adult,Male,1,1,1,1
+PELLS,Mr.,Cyril Elmore,Saved,24,Second,Passenger,British,Married,Vancouver,British Columbia,Canada,1,Adult,Male,1,1,1,1
+WEBSTER,Mrs.,Frederick G. (Margaret),Lost,24,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+WICKINGS-SMITH,Mrs.,Cyril (Phyllis Bailey Fenn),Saved,24,Second,Passenger,British,Married,Victoria,British Columbia,Canada,1,Adult,Female,1,0,1,1
+WILLIAMS,Miss,Beatrice,Saved,24,Second,Passenger,British,Single,Rock Island,Illinois,USA,1,Adult,Female,1,0,1,1
+BOYLE,Miss,Nicholas,Lost,24,Third,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+CROSBIE,Miss,Agnes,Saved,24,Third,Passenger,British,Single,Wilmette,Illinois,USA,1,Adult,Female,1,0,1,1
+DICK,Miss,Annie,Lost,24,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+DIECKEY,Mr.,Ewstafey,Lost,24,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+DOYLE,Miss,Anna,Lost,24,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+HARRISON,Mr.,George Wraith,Saved,24,Third,Passenger,British,,Fernie,,Canada,1,Adult,Male,1,1,1,1
+HENRY,Mrs.,John (Catherine Ruane),Saved,24,Third,Passenger,British (Irish),Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+JOHNSON,Mr.,Herbert K.,Saved,24,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+JUNCZYK,Mr.,Egor,Saved,24,Third,Passenger,Russian,,Hoosik Falls,,USA,1,Adult,Male,1,1,1,1
+KING,Mr.,Harry,Lost,24,Third,Passenger,British,,Chicago,,USA,1,Adult,Male,1,1,0,1
+KING,Miss,Sarah (Mrs. Michael Doherty),Lost,24,Third,Passenger,British,Married,Deported,,,1,Adult,Female,1,0,0,1
+LINDLEY,Mr.,Harry,Lost,24,Third,Passenger,British,,Toledo,Ohio,USA,1,Adult,Male,1,1,0,1
+MARKS,Miss,Georgina,Lost,24,Third,Passenger,British,Single,Bristol,,England,1,Adult,Female,1,0,0,1
+McKEON,Miss,Jane,Lost,24,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+MURASKO,Mr.,Boris,Lost,24,Third,Passenger,Russian,,Oxford Furnace,,USA,1,Adult,Male,1,1,0,1
+SMETHURST,Mrs.,Harold (Alice),Saved,24,Third,Passenger,British,Married,New Philadelphia,Ohio,USA,1,Adult,Female,1,0,1,1
+SMITH,Miss,Agnes,Lost,24,Third,Passenger,British,Single,Glencoe,Illinois,USA,1,Adult,Female,1,0,0,1
+FINUCANE,Mr. ,Noel,Saved,24,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HALE,Miss,"Sarah Rachel Orr ""Sadie""",Lost,24,Victualling,Crew,British (Irish),,Belfast,,Ireland,1,Adult,Female,1,0,0,0
+HINE,Mr. ,John Benjamin,Lost,24,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+HUBBARD,Mr.,Frederick Cole Amos,Lost,24,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+HAWKINS,Mr.,Handel,Saved,25,Band,Crew,British,,,,,1,Adult,Male,1,1,1,0
+GARRY,Dr.,Joseph,Lost,25,Deck,Crew,British (Irish),,Kildysart,,Ireland,1,Adult,Male,1,1,0,0
+ROBERTS,Mr.,Charles A.,Saved,25,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HOEY,Mr.,James,Lost,25,Engineering,Crew,British (Irish),,Dundalk,,Ireland,1,Adult,Male,1,1,0,0
+HOPKINS,Mr.,Patrick,Lost,25,Engineering,Crew,British (Irish),,Castlebar,,Ireland,1,Adult,Male,1,1,0,0
+KEARNEY,Mr.,Patrick,Lost,25,Engineering,Crew,British (Irish),,Crumlin,,Ireland,1,Adult,Male,1,1,0,0
+KEARNEY,Mr.,Thomas,Lost,25,Engineering,Crew,British (Irish),,Castlebar,,Ireland,1,Adult,Male,1,1,0,0
+SCANNELL,Mr.,Charles,Saved,25,Engineering,Crew,British (Irish),,"Roberts Cove, Minane Bridge",,Ireland,1,Adult,Male,1,1,1,0
+CONNER,Miss,Dorothy,Saved,25,Saloon,Passenger,USA,Single,Medford,Oregon,USA,1,Adult,Female,1,0,1,1
+HURLEY,Miss,Margaret (maid to the Learoyds),Saved,25,Saloon,Passenger,British,Single,Sydney,New South Wales,Australia,1,Adult,Female,1,0,1,1
+JOLIVET,Miss,"Marguerite ""Rita"" Lucile",Saved,25,Saloon,Passenger,French,Single,Paris,,France,1,Adult,Female,1,0,1,1
+PERRY,Mr.,Frederick John,Saved,25,Saloon,Passenger,British,,Buffalo,New York,USA,1,Adult,Male,1,1,1,1
+BARRETT,Miss,May,Saved,25,Second,Passenger,British (Irish),Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+BOOTH-JONES,Mrs.,Edward (Millichamp Jones),Lost,25,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+ELLIOT,Mrs.,Arthur W. (Annie Louise),Saved,25,Second,Passenger,British,Married,Calgary,Alberta,Canada,1,Adult,Female,1,0,1,1
+HARDY,Miss,Elsie,Saved,25,Second,Passenger,British,Single,Montclair,New Jersey,USA,1,Adult,Female,1,0,1,1
+JUDSON,Mr.,Frederick Sheldon,Saved,25,Second,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+McDONNELL,Miss,"Kate ""Kitty""",Saved,25,Second,Passenger,British (Irish),Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+MIDDLETON,Miss,Alice,Saved,25,Second,Passenger,British,Single,Seattle,Washington,USA,1,Adult,Female,1,0,1,1
+NORTH,Miss,Olive,Saved,25,Second,Passenger,British,Single,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+SULLIVAN (O'Sullivan),Mrs.,Florence (Julia O'Neill),Saved,25,Second,Passenger,British (Irish),Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+WATERS,Miss,Katherine W.,Lost,25,Second,Passenger,British (Irish),Single,Elcentra,California,USA,1,Adult,Female,1,0,0,1
+WHITCOMBE,Mr.,Hugh Martin Donald Gore,Saved,25,Second,Passenger,British,,Havana,,Cuba,1,Adult,Male,1,1,1,1
+WILD,Miss,Evelyn Norbury,Saved,25,Second,Passenger,British,Single,Paterson,New Jersey,USA,1,Adult,Female,1,0,1,1
+ANTILA,Mrs.,Aino,Saved,25,Third,Passenger,Russian (Finnish),Married,Deported,,,1,Adult,Female,1,0,1,1
+BARROW,Mr.,Donald George M.,Saved,25,Third,Passenger,British,Married,Maple Creek,,Canada,1,Adult,Male,1,1,1,1
+KORNEJCZYK,Mr.,Andrej,Lost,25,Third,Passenger,Russian,,Clarksburg,,USA,1,Adult,Male,1,1,0,1
+LAMBERT,Mrs.,John (Delia Gately),Lost,25,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+PRYOR,Mr.,John,Lost,25,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+SIKIWICKI,Mr.,Andro,Lost,25,Third,Passenger,Russian,,Franklin Furnace,,USA,1,Adult,Male,1,1,0,1
+TOBIN,Mrs.,Nora,Saved,25,Third,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Female,1,0,1,1
+TOUHEY,Miss,Margaret,Saved,25,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+TUCKER,Mr.,Albert,Lost,25,Third,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+LEACH,Mr. , John Neil,Lost,25,Victualling,Crew,British (Jamaican),,Kingston,,Jamaica,1,Adult,Male,1,1,0,0
+ADAMS,Mrs.,Albert E. (Gertrude Pollett),Saved,25,Second,Passenger,British,Married,Edmonton,Alberta,Canada,1,Adult,Female,1,0,1,1
+HOPKINS,Mr.,David Thomas,Lost,25,Second,Passenger,British,,Wales,,Wales,1,Adult,Male,1,1,0,1
+PARRY,Mr.,Joseph,Saved,26,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BARRY,Mr.,W.,Lost,26,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+McPARLAND,Mr.,Terence,Lost,26,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+ALLEN,Miss,Dorothy Ditman (nurse to the Cromptons),Lost,26,Saloon,Passenger,USA,Single,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+BUSWELL,Mr.,Peter,Saved,26,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,1,1
+PERRY,Mr.,Albert Norriss,Lost,26,Saloon,Passenger,British,,Buffalo,New York,USA,1,Adult,Male,1,1,0,1
+SILVA,Mr.,Thomas James,Lost,26,Saloon,Passenger,USA,,Thomasville,Georgia,USA,1,Adult,Male,1,1,0,1
+SLINGSBY,Mr.,George (valet to Mr. Orr-Lewis),Saved,26,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Adult,Male,1,1,1,1
+ABAS,Mrs.,Philip Robert (Beatrice Sanderson),Lost,26,Second,Passenger,British/Dutch,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+ANDERSON,Mrs.,Rowland (Emily Mary Pybus),Saved,26,Second,Passenger,British,Married,Bridgeport,Connecticut,USA,1,Adult,Female,1,0,1,1
+DONALD,Mr.,Archibald Douglas,Saved,26,Second,Passenger,British,Single,Cambridge,Massachusetts,USA,1,Adult,Male,1,1,1,1
+GRANDIDGE,Mrs.,Arthur (Nancie B. May),Lost,26,Second,Passenger,British,Married,Yonkers,New York,USA,1,Adult,Female,1,0,0,1
+GWYER,Mrs.,Herbert Linford (Margaret Inglis Adams Cairns),Saved,26,Second,Passenger,British,Married,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+HERBERT,Mrs.,E. V. (Florence),Lost,26,Second,Passenger,British,Married,London,Ontario,Canada,1,Adult,Female,1,0,0,1
+LANE,Mr.,George Benjamin,Saved,26,Second,Passenger,British,,,,England,1,Adult,Male,1,1,1,1
+MARTIN,Miss,Ruby,Saved,26,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+MECREDY,Dr.,"Ralph Jack Richard, Jr.",Saved,26,Second,Passenger,British,,Dublin,,Ireland,1,Adult,Male,1,1,1,1
+MERIHEINA,Mr.,William Uno,Saved,26,Second,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SULLIVAN (O'Sullivan),Mr.,Florence,Saved,26,Second,Passenger,British (Irish),Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+TIERNEY,Mrs.,James (Mary),Lost,26,Second,Passenger,British,,Vandegrift,Pennsylvania (?),USA,1,Adult,Female,1,0,0,1
+WALKER,Mrs.,John (Gertrude Thursfield),Lost,26,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+BEVAN,Mr.,Jack,Lost,26,Third,Passenger,British,,Bellaire,,USA,1,Adult,Male,1,1,0,1
+BOTTOMLEY,Mr.,Fred,Saved,26,Third,Passenger,British,,"New York, NY, USA",New York,USA,1,Adult,Male,1,1,1,1
+FERRICK,Mr.,John,Lost,26,Third,Passenger,British (Irish),Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+GRAHAM,Mr.,Gordon,Lost,26,Third,Passenger,British,,San Francisco,California,USA,1,Adult,Male,1,1,0,1
+GRYSZKIEWICZ,Mr.,Antoni,Saved,26,Third,Passenger,Russian (Polish),,Three Rivers,,USA,1,Adult,Male,1,1,1,1
+INMAN,Mr.,John Edward,Lost,26,Third,Passenger,British,,Park City,,USA,1,Adult,Male,1,1,0,1
+KENNY,Miss,Agnes,Saved,26,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+KOZLOWSKI,Mr.,Mr. Kost,Lost,26,Third,Passenger,Russian (Polish),,Clarksburg,,USA,1,Adult,Male,1,1,0,1
+LIZAWCZUK,Mr.,Alexaj,Lost,26,Third,Passenger,Russian,,Philadelphia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+LYONS,Miss,Annie,Lost,26,Third,Passenger,British,Single,Newark,New Jersey,USA,1,Adult,Female,1,0,0,1
+MARSH,Mrs.,Thomas (Annie),Saved,26,Third,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MICHALKOWICZ,Mr.,Iwan,Lost,26,Third,Passenger,Russian (Polish),,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+MURRAY,Mrs.,James (Margaret Gray),Lost,26,Third,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+REID,Mrs.,Ellen,Lost,26,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+ROBINSON,Mr.,Allan William,Lost,26,Third,Passenger,British,Single,Clay Centre,,USA,1,Adult,Male,1,1,0,1
+ROBSHAW,Mrs.,George (Edith),Lost,26,Third,Passenger,British,,Kearney,(?) New Jersey,USA,1,Adult,Female,1,0,0,1
+SHEPPERSON,Mr.,Arthur George,Saved,26,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SHIRRAS,Mr.,Robert Brown,Lost,26,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+STOLARENIC,Mr.,Vasili,Lost,26,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+STRYNECHUK,Mr.,Save,Saved,26,Third,Passenger,Russian,,Palmerton,,USA,1,Adult,Male,1,1,1,1
+DODWELL,Miss,Eleanor,Lost,26,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+GOUDER,Mr. ,Charles Francis Vincent (Gontes Cloules),Saved,26,Victualling,Crew,British (Maltese),,,,,1,Adult,Male,1,1,1,0
+GRISDALE,Mr. ,Harry,Saved,26,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+STRINGER,Mr. ,Harry,Lost,26,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+GRANT,Mr. ,James,Saved,26,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HEMINGWAY,Mr.,John William,Saved,27,Band,Crew,British,,,,,1,Adult,Male,1,1,1,0
+ROBB,Mr.,Joseph,Lost,27,Deck,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BAKER,Miss,"Amelia ""Millie"" Anne",Lost,27,Saloon,Passenger,USA,Divorced/Engaged,New York,New York,USA,1,Adult,Female,1,0,0,1
+BERNARD,Mr.,"Clinton ""Will"" Percival",Saved,27,Saloon,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,1,1
+RUMBLE,Mr.,Thomas Walter,Lost,27,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+ARMITAGE,Mrs.,Martin? (Florence Gertrude Burke Martin),Lost,27,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+BANCROFT,Mr.,"William Blanchard, Jr.",Lost,27,Second,Passenger,USA,Single,London,,England,1,Adult,Male,1,1,0,1
+COX,Mrs.,Samuel J. (Margaret Elizabeth Robinson),Saved,27,Second,Passenger,British (Irish),Married,Winnipeg,Manitoba,Canada,1,Adult,Female,1,0,1,1
+FOSS,Dr.,Carl Elmer ,Saved,27,Second,Passenger,USA,Married,Harlem,Montana,USA,1,Adult,Male,1,1,1,1
+GROVES,Mrs.,Sydney Frederick (Clara Lee),Lost,27,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+HARE,Miss,Bessie,Lost,27,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+HENN,Mrs.,Ernest George (Edith Mabel Fisher),Lost,27,Second,Passenger,British,Married,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,0,1
+HENSHAW,Mrs.,George (Mabel Iris Baker),Saved,27,Second,Passenger,British,Married,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+INCH,Mr.,William Ernest,Saved,27,Second,Passenger,British,Divorced,New York,New York,USA,1,Adult,Male,1,1,1,1
+LAMBIE,Mrs.,Daniel (Mary Docherty),Lost,27,Second,Passenger,British,Married,Roslyn,,USA,1,Adult,Female,1,0,0,1
+LEIPOLD,Miss,Catherine Estella M.,Saved,27,Second,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,1,1
+McKINNON,Mrs.,Robert (Jeanie Gilmour Beith),Lost,27,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+MITCHELL,Mr.,Walter Dawson,Lost,27,Second,Passenger,British (Irish),Married,Newark,New Jersey,USA,1,Adult,Male,1,1,0,1
+MITCHELL,Mrs.,"Walter Dawson (Jeanette ""Nettie"" Elizabeth Moore)",Saved,27,Second,Passenger,British (Irish),Married,Newark,New Jersey,USA,1,Adult,Female,1,0,1,1
+NEGUS,Mr.,Edward,Saved,27,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+NICHOLSON,Mr.,Charles Duncan,Lost,27,Second,Passenger,British,,Edmonton,Alberta,Canada,1,Adult,Male,1,1,0,1
+SCOTT,Mr.,George,Saved,27,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+SLATTERY,Mr.,Patrick John,Saved,27,Second,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+TARRY,Mr.,Edward,Saved,27,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+WICKINGS-SMITH,Mr.,Cyril,Saved,27,Second,Passenger,British,Married,Victoria,British Columbia,Canada,1,Adult,Male,1,1,1,1
+WORDSWORTH,Mr.,Osmund Bartle,Saved,27,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+AGNEW,Mr.,Thomas W.,Lost,27,Third,Passenger,British,Married,Monessen,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+AGNEW,Mrs.,Thomas W. (?),Lost,27,Third,Passenger,British,Married,Monessen,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+ASHMAN,Mr.,Henry Clifford,Saved,27,Third,Passenger,British,,Butte,Montana,USA,1,Adult,Male,1,1,1,1
+FAULDS,Mrs.,Andrew (Margaret Allen),Saved,27,Third,Passenger,British,Married,Yonkers,New York,USA,1,Adult,Female,1,0,1,1
+GATELY,Mr.,John,Saved,27,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+GRINSTED,Mr.,S. Cyril,Saved,27,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+HEBDEN,Mrs.,Robert (Clara),Lost,27,Third,Passenger,British,Married,New Bedford,Missouri,USA,1,Adult,Female,1,0,0,1
+HOUSTON,Mr.,Frank,Lost,27,Third,Passenger,British,,Auburn,Alabama,USA,1,Adult,Male,1,1,0,1
+IWANUK,Mr.,Emilian,Saved,27,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+JOHNSON,Mr.,John,Lost,27,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+LOGAN,Mrs.,James (Ruth Cooper),Saved,27,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+MATTHEWS,Mr.,Thomas,Saved,27,Third,Passenger,British,,Calumet,Illinois,USA,1,Adult,Male,1,1,1,1
+McCALLUM,Mr.,Albert Alexander,Lost,27,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+McNULTY,Mr.,Stephen,Lost,27,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+NORMAN,Mr.,Jasper,Lost,27,Third,Passenger,British,,Rochester,New York,USA,1,Adult,Male,1,1,0,1
+OGINSKI,Mr.,Danil,Lost,27,Third,Passenger,Russian,,Hartford,Connecticut,USA,1,Adult,Male,1,1,0,1
+PERKA,Mr.,Maxim Antanow,Saved,27,Third,Passenger,Russian,,,,Canada,1,Adult,Male,1,1,1,1
+SMETHURST,Mr.,Harold,Saved,27,Third,Passenger,British,Married,New Philadelphia,Ohio,USA,1,Adult,Male,1,1,1,1
+STRULZ,Mr.,Theodor,Lost,27,Third,Passenger,Russian,,,,Canada,1,Adult,Male,1,1,0,1
+VEALS,Mrs.,Albert Edward (Agnes Maud Bailey),Saved,27,Third,Passenger,British,Married,Orange,New Jersey,USA,1,Adult,Female,1,0,1,1
+WILLIAMS,Mr.,David,Lost,27,Third,Passenger,British,,Edmonton,Alberta,Canada,1,Adult,Male,1,1,0,1
+YOUNG,Mrs.,Charles (Elizabeth Grossart),Lost,27,Third,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+Van HOECK,Mr. ,Julius E. ,Saved,27,Victualling,Crew,Dutch,,,,,1,Adult,Male,1,1,1,0
+HUME,Mrs.,Samuel Elliott (Mary Agnes Elliott),Lost,27,Second,Passenger,USA,Married,Harrison,New Jersey,USA,1,Adult,Female,1,0,0,1
+TRAYNOR,Mr.,Philip Henry,Lost,28,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+WARD,Mr.,Michael,Lost,28,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+WELSH,Mr.,Christopher,Lost,28,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+BRODRICK,Mr.,Carlton Thayer,Lost,28,Saloon,Passenger,USA,Single,Newton Centre,Massachusetts,USA,1,Adult,Male,1,1,0,1
+FREEMAN,Mr.,"Richard Rich, Jr.",Lost,28,Saloon,Passenger,USA,Single,Boston,Massachusetts,USA,1,Adult,Male,1,1,0,1
+FRIEND,Professor,Edwin William,Lost,28,Saloon,Passenger,USA,Married,Farmington,Connecticut,USA,1,Adult,Male,1,1,0,1
+GRAB,Mr.,Oscar Frederick,Saved,28,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+MASON,Mrs.,Stewart Southam (Leslie Hawthorne Lindsey),Lost,28,Saloon,Passenger,USA,Married,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+WINTER,Mr.,William Henry,Lost,28,Saloon,Passenger,British,,Liverpool,,England,1,Adult,Male,1,1,0,1
+CONDON,Mrs.,Terrence (Delia Josephine Doyle),Lost,28,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+FOX,Mrs.,Francis Edwin (Emily Gaisford),Lost,28,Second,Passenger,British,Married,Trenton,New Jersey,USA,1,Adult,Female,1,0,0,1
+FRIEDMAN,Mr.,Samuel,Lost,28,Second,Passenger,USA,,Brooklyn,New York,USA,1,Adult,Male,1,1,0,1
+GROVES,Mr.,Sydney Frederick,Lost,28,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+HOGG,Mrs.,Ellen,Saved,28,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+HOUNSELL,Mr.,Edgar Cyril,Saved,28,Second,Passenger,British,,England,,England,1,Adult,Male,1,1,1,1
+JONES,Mr.,Patrick Llewellynn,Lost,28,Second,Passenger,British,,England,,England,1,Adult,Male,1,1,0,1
+LEVERICH,Miss,Rosina Philip,Lost,28,Second,Passenger,USA,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+PAVEY,Miss,Lorna Mary,Saved,28,Second,Passenger,British,Single,Fort Qui Apelle,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+PRESTON-SMITH,Mr.,John,Saved,28,Second,Passenger,British,,Southbanks,Yorkshire,England,1,Adult,Male,1,1,1,1
+PYE,Mrs.,William Samuel (Charlotte Lillian),Saved,28,Second,Passenger,British,Married,Edmonton,Alberta,Canada,1,Adult,Female,1,0,1,1
+STONES,Mr.,Norman,Saved,28,Second,Passenger,British,Married,Texada Island,British Columbia,Canada,1,Adult,Male,1,1,1,1
+TODD,Mr.,David,Lost,28,Second,Passenger,British,,Philadelphia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+VESCOVI,Dr.,Silvio B. de,Saved,28,Second,Passenger,Italian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+WALKER,Mr.,John,Lost,28,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+WEBSTER,Mr.,Frederick G.,Saved,28,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+BACKA,Mr.,Matthew,Saved,28,Third,Passenger,Russian,,,Saskatchewan,Canada,1,Adult,Male,1,1,1,1
+BARTLEY,Mrs.,George Noble (Ellen),Lost,28,Third,Passenger,British,Married,Welland,Ontario,Canada,1,Adult,Female,1,0,0,1
+BORESKEVECS,Mr.,Folop,Lost,28,Third,Passenger,Russian,,Palmerton,,USA,1,Adult,Male,1,1,0,1
+BOYLE,Mr.,James,Saved,28,Third,Passenger,British,,Canada,,Canada,1,Adult,Male,1,1,1,1
+BROWN,Miss,Evelyn,Lost,28,Third,Passenger,British,Single,Philadelphia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+CANIGAN,Miss,Margaret,Lost,28,Third,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+EDWARDS,Mr.,Isaac,Lost,28,Third,Passenger,British,,Greensburg,,USA,1,Adult,Male,1,1,0,1
+FAULDS,Mr.,Andrew,Saved,28,Third,Passenger,British,Married,Yonkers,New York,USA,1,Adult,Male,1,1,1,1
+GRIWACCZEWSKI,Mr.,Michael,Lost,28,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+KEVORKE,Mr.,Ahajan,Lost,28,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+McAFEE,Mr.,Thomas,Lost,28,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+McCREADY,Mr.,Robert G.,Lost,28,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+O'KELLY,Mr.,John J.,Lost,28,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+SARGIS,Mr.,Pera,Lost,28,Third,Passenger,Persian,,Gary,Indiana,USA,1,Adult,Male,1,1,0,1
+SMITH,Mrs.,William (Minnie),Lost,28,Third,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Female,1,0,0,1
+SPENDLEY,Mrs.,David March (Kate Bermet),Saved,28,Third,Passenger,British,Married,Sunderland,,England,1,Adult,Female,1,0,1,1
+STEVENS,Mr.,George,Saved,28,Third,Passenger,British,,Olean,,USA,1,Adult,Male,1,1,1,1
+TOMASZEWICZ,Mr.,Iwan,Saved,28,Third,Passenger,Russian (Polish),,Bayonne,New Jersey,USA,1,Adult,Male,1,1,1,1
+TYLER,Mr.,Samuel,Lost,28,Third,Passenger,British,,Whitehall,,USA,1,Adult,Male,1,1,0,1
+BALDWIN,Mr. ,Thomas,Saved,28,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+LAMONT,Mr. ,Charles,Saved,28,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+LEWIS,Mr.,John Idwal,Saved,29,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+McKENNA,Mr.,Bernard,Lost,29,Engineering,Crew,British (Irish),,Castlebellingham,,Ireland,1,Adult,Male,1,1,0,0
+HAMMOND,Mrs.,Ogden Haggerty (Mary Picton Stevens),Lost,29,Saloon,Passenger,USA,Married,Bernardsville and New York,New Jersey and New York,USA,1,Adult,Female,1,0,0,1
+HAMMOND,Mr.,Frederick Sydney,Lost,29,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+HAMMOND,Mrs.,Frederick Sydney (Kathleen Saunders McParland),Saved,29,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+HOUGHTON,Dr.,James Tilley,Saved,29,Saloon,Passenger,USA,Married,Troy,New York,USA,1,Adult,Male,1,1,1,1
+JENKINS,Mr.,Francis Bertram,Saved,29,Saloon,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+MOSELY,Mr.,George Gordon,Saved,29,Saloon,Passenger,British,,,,England,1,Adult,Male,1,1,1,1
+NYBLOM,Mr.,Gustaf Adolf,Lost,29,Saloon,Passenger,Swedish,,,,Canada,1,Adult,Male,1,1,0,1
+PHILLIPS,Mr.,Wallace Banta,Saved,29,Saloon,Passenger,USA,Single,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+SCOTT,Captain,Alick John,Lost,29,Saloon,Passenger,British,,Manila,,Philippines,1,Adult,Male,1,1,0,1
+DOCHERTY,Mrs.,"William (Mabel ""Millie"" Irving)",Saved,29,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+FINCH,Mrs.,William (Eva Eliza),Lost,29,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+HILL,Mr.,William Spencer,Saved,29,Second,Passenger,British,,Wales,,Wales,1,Adult,Male,1,1,1,1
+JONES,Miss, Gwendolyn,Lost,29,Second,Passenger,British,Single,San Francisco,California,USA,1,Adult,Female,1,0,0,1
+LUND,Mr.,Charles Henry,Lost,29,Second,Passenger,USA,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+LUND,Mrs.,Charles Henry (Sarah Jane Mounsey),Saved,29,Second,Passenger,USA,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,1,1
+NEATBY,Miss,Winifred (Freda),Saved,29,Second,Passenger,British,Engaged,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+PRICHARD,Mr.,Richard Preston,Lost,29,Second,Passenger,British,Single,Montréal,Quebec,Canada,1,Adult,Male,1,1,0,1
+READDIE,Mr.,James Robert,Saved,29,Second,Passenger,British,,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+ROBSON,Mr.,Kenneth Hamilton Stewart,Lost,29,Second,Passenger,British,,Mount Vernon,New York,USA,1,Adult,Male,1,1,0,1
+SEMPLE,Mrs.,Andrew (Agnes Gilmour),Lost,29,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+SHINEMAN,Mr.,James W.,Lost,29,Second,Passenger,USA,Married,Oil City,Wyoming,USA,1,Adult,Male,1,1,0,1
+STONES,Mrs.,Norman (Hilda Mary Joy),Lost,29,Second,Passenger,British,Married,Texada Island,British Columbia,Canada,1,Adult,Female,1,0,0,1
+STORCH,Mr.,Walter Reinhold,Saved,29,Second,Passenger,British,,San Francisco,California,USA,1,Adult,Male,1,1,1,1
+WATERS,Miss,Margaret,Lost,29,Second,Passenger,British (Irish),Single,Elcentra,California,USA,1,Adult,Female,1,0,0,1
+WICKINGS-SMITH,Mr.,Basil Guilford (Cyril's brother),Lost,29,Second,Passenger,British,Married,Victoria,British Columbia,Canada,1,Adult,Male,1,1,0,1
+BALLANTYNE,Miss,Margaret,Saved,29,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+BLACKSHAW,Mrs.,Alice,Lost,29,Third,Passenger,British,Married,St. Thomas,Ontario,Canada,1,Adult,Female,1,0,0,1
+DIXON,Mr.,Alfred,Lost,29,Third,Passenger,British,,El Paso,Texas,USA,1,Adult,Male,1,1,0,1
+FEELEY,Mr.,Joseph,Lost,29,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+FLAHERTY,Mr.,Thomas,Lost,29,Third,Passenger,British,,Brooklyn,New York,USA,1,Adult,Male,1,1,0,1
+ISHERWOOD,Mr.,Fred,Lost,29,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+KOWERETZ,Mr.,Naum D.,Lost,29,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+MARSH,Mr.,Thomas,Lost,29,Third,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+NEILSON,Miss,Gerda Theoline,Saved,29,Third,Passenger,British,Single,Brooklyn,New York,USA,1,Adult,Female,1,0,1,1
+OWENS,Mr.,Patrick,Lost,29,Third,Passenger,British,,St. Louis,Missouri,USA,1,Adult,Male,1,1,0,1
+RAWEN,Miss,Annie,Saved,29,Third,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,1,1
+RILEY,Mrs.,Edward (Annie Taylor),Saved,29,Third,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Female,1,0,1,1
+SCOTT,Mrs.,Arthur (Alice Ann Kay),Lost,29,Third,Passenger,British,Married,No. Adams,,USA,1,Adult,Female,1,0,0,1
+SEFERIEN,Mr.,Levon,Saved,29,Third,Passenger,Persian,,Troy,New York,USA,1,Adult,Male,1,1,1,1
+SOBOLOWSKI,Mr.,Mitrofan,Saved,29,Third,Passenger,Russian,,Lyndora,,USA,1,Adult,Male,1,1,1,1
+STEELE,Mr.,George,Saved,29,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+BROWN,Mr. ,James H.,Saved,29,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HARKNESS,Mr. ,William Herbert,Saved,29,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+JONES,Mr.,William Ewart Gladstone,Saved,29,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+DRAKEFORD,Mr.,Edward,Saved,30,Band,Crew,British,,,,,1,Adult,Male,1,1,1,0
+DUNN,Mr.,Albert Charles,Saved,30,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+FEARON,Mr.,Peter,Lost,30,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+GAVAN,Mr.,Peter,Lost,30,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+HAYES,Mr.,John Henry Lamie,Lost,30,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+MARKEY,Mr.,Patrick,Lost,30,Engineering,Crew,British (Irish),,Dundalk,,Ireland,1,Adult,Male,1,1,0,0
+McCANN,Mr.,Owen,Lost,30,Engineering,Crew,British (Irish),,Carlingford,,Ireland,1,Adult,Male,1,1,0,0
+McGEOUGH,Mr.,Michael,Lost,30,Engineering,Crew,British (Irish),,Dundalk,,Ireland,1,Adult,Male,1,1,0,0
+McNULTY,Mr.,Peter,Lost,30,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+DENYER,Mr.,Ronald (valet to Mr. Vanderbilt),Lost,30,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+MASON,Mr.,Stewart Southam,Lost,30,Saloon,Passenger,British,Married,Ipswich,,England,1,Adult,Male,1,1,0,1
+PAYNTER,Miss,Irene Emily,Saved,30,Saloon,Passenger,British,Single,Liverpool,,England,1,Adult,Female,1,0,1,1
+POLLARD,Mr.,Henry,Lost,30,Saloon,Passenger,British,,Washington,District of Columbia,USA,1,Adult,Male,1,1,0,1
+WALKER,Miss,Annie (maid to the Allans),Saved,30,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Adult,Female,1,0,1,1
+ANDERSON,Mrs.,George R. (Margaret Armstrong Scott),Lost,30,Second,Passenger,British,,Pittsburgh,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+BOOTH,Mrs.,Charles Harry (Emily Eliza Hadfield) ,Lost,30,Second,Passenger,British,Married,Ottawa,Ontario,Canada,1,Adult,Female,1,0,0,1
+BUCHANAN,Miss,Mary,Lost,30,Second,Passenger,British,Single,Pottstown,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+CANDLISH,Mrs.,Arthur (Ellen Gardner),Saved,30,Second,Passenger,USA,Married,Pawtucket,Rhode Island,USA,1,Adult,Female,1,0,1,1
+CHAMBERS,Mrs.,Guy Winstaney P. (Ethel Paul),Lost,30,Second,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+ELLIOT,Mr.,Arthur W.,Lost,30,Second,Passenger,British,Married,Calgary,Alberta,Canada,1,Adult,Male,1,1,0,1
+FOX,Mr.,Francis Edwin,Lost,30,Second,Passenger,British,Married,Trenton,New Jersey,USA,1,Adult,Male,1,1,0,1
+FREEMAN,Mrs.,John (Rachel Grant),Saved,30,Second,Passenger,British,Married,Falkain,British Columbia,Canada,1,Adult,Female,1,0,1,1
+HOMEWOOD,Mr.,William Thomas,Lost,30,Second,Passenger,British,,Toledo,Ohio,USA,1,Adult,Male,1,1,0,1
+LINES,Mr.,Stanley Llandolf Burnett,Saved,30,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+LONGDIN,Mrs.,Arthur (Matilda Hartley),Lost,30,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+MURRAY,Mrs.,Christopher (Rose Ellen McGinley),Saved,30,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+PAGE,Mr.,Andrew,Saved,30,Second,Passenger,British,,Medicine Hat,Alberta,Canada,1,Adult,Male,1,1,1,1
+PARSONS,Mr.,Archibald Ernest,Lost,30,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+PRESCOTT,Mrs.,George (Bertha Martin),Lost,30,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+ROBSON,Miss,Annie,Lost,30,Second,Passenger,British,,Mount Vernon,New York,USA,1,Adult,Female,1,0,0,1
+STEWART,Mrs.,James (Christina Knox?),Saved,30,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+THOMPSON,Miss,Muriel,Lost,30,Second,Passenger,British,,Miami,Florida,USA,1,Adult,Female,1,0,0,1
+TURPIN,Mr.,Thomas Keith,Saved,30,Second,Passenger,British,Married,Victoria,British Columbia,Canada,1,Adult,Male,1,1,1,1
+ALEXAN,Mr.,Babajan,Saved,30,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+BABA,Mr.,Frank,Saved,30,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+BANNERJI,Mr.,Induprakash,Lost,30,Third,Passenger,British (Indian),,Princeton,New Jersey,USA,1,Adult,Male,1,1,0,1
+BARCLAY,Mr.,George,Saved,30,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,1,1
+BENJAMIN,Miss,Queenie,Saved,30,Third,Passenger,British,Single,Roland Park,,USA,1,Adult,Female,1,0,1,1
+BIALANS,Mr.,Stefan,Saved,30,Third,Passenger,Russian,,Waterbury,Massachusetts,USA,1,Adult,Male,1,1,1,1
+CUNNIFFE,Miss,Hannah,Lost,30,Third,Passenger,British (Irish),Single,Brooklyn,New York,USA,1,Adult,Female,1,0,0,1
+GALVIN,Mr.,Michael,Lost,30,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+GOODALL,Mr.,William,Lost,30,Third,Passenger,British,Married,Kearney,New Jersey,USA,1,Adult,Male,1,1,0,1
+GOODWIN,Miss,Rose,Saved,30,Third,Passenger,British,Single,Baltimore,Maryland,USA,1,Adult,Female,1,0,1,1
+KILLAWE,Miss,Winifred,Saved,30,Third,Passenger,British,Single,Pittsburgh,Pennsylvania,USA,1,Adult,Female,1,0,1,1
+LOCKHART,Mr.,James,Lost,30,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+LUKER,Mr.,Francis John,Saved,30,Third,Passenger,British,,Saskatoon,Saskatchewan,Canada,1,Adult,Male,1,1,1,1
+McCORMICK,Mr.,Thomas,Saved,30,Third,Passenger,British,,Nashua,New Hampshire,USA,1,Adult,Male,1,1,1,1
+MEANEY,Mr.,George Peter,Lost,30,Third,Passenger,British,,Thomas,,USA,1,Adult,Male,1,1,0,1
+PICKARD,Mr.,Frederick J.,Saved,30,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+RILEY,Mr.,Edward,Saved,30,Third,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Male,1,1,1,1
+SELF,Mrs.,James (Florence Carl),Lost,30,Third,Passenger,British,Married,,,Canada,1,Adult,Female,1,0,0,1
+SHEEDY,Mr.,Patrick,Lost,30,Third,Passenger,British,,Deported,,,1,Adult,Male,1,1,0,1
+SKELTON,Mr.,Frederick,Lost,30,Third,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+SNOWDEN,Mr.,Fred A.,Lost,30,Third,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+SNOWDEN,Mr.,Thomas,Saved,30,Third,Passenger,British,,Lynn,,USA,1,Adult,Male,1,1,1,1
+STACHULA,Mr.,Michael,Lost,30,Third,Passenger,Russian,,Buffalo,New York,USA,1,Adult,Male,1,1,0,1
+TRAVERS,Mrs.,Jane,Lost,30,Third,Passenger,British,Married,Newark,New Jersey,USA,1,Adult,Female,1,0,0,1
+WILKES,Miss,Alice Kate,Saved,30,Third,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Female,1,0,1,1
+DRAPER,Mr. ,Percy,Saved,30,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HAGEN,Mr. ,Francis J.,Saved,30,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HOLMAN,Mr. ,Frank Bowden,Saved,30,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+IRVINE,Miss,Catherine,Lost,30,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+VANCE,Mr.,John,Lost,30,Second,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+DUGGAN,Mr.,John,Lost,31,Engineering,Crew,British (Irish),,Kirkdale,,England,1,Adult,Male,1,1,0,0
+DUNCAN,Mr.,Peter Robinson,Lost,31,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+JONES,Mr.,Richard Ellis,Lost,31,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+KEATING,Mr.,Philip,Lost,31,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+WYLIE,Mr.,Richard G.,Saved,31,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BARTLETT,Mrs.,George W. B. (Irma Florine Rothschild),Saved,31,Saloon,Passenger,British,Married,London,,England,1,Adult,Female,1,0,1,1
+HARRIS,Mr.,Dwight Carlton,Saved,31,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+KEEBLE,Mr.,Wilfrid R.,Saved,31,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+LOBB,Mrs.,Reginald Popham (Mary Beatrice Jackman),Saved,31,Saloon,Passenger,British,Married,,,St. Vincent and the Grenadines,1,Adult,Female,1,0,1,1
+OSBOURNE,Mrs.,T. O. (Ella),Lost,31,Saloon,Passenger,British,,Glasgow,,Scotland,1,Adult,Female,1,0,0,1
+TAYLOR,Mr.,Richard Lionel,Saved,31,Saloon,Passenger,British,,Montreal,Quebec,Canada,1,Adult,Male,1,1,1,1
+AITKEN,Mr.,"James Jarvie, Sr.",Lost,31,Second,Passenger,British,Widowed,Merritt,British Columbia,Canada,1,Adult,Male,1,1,0,1
+CAMPBELL,Mr.,William,Lost,31,Second,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+CAMPBELL,Miss,Ada Mena,Saved,31,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+CHIRGWIN,Mrs.,Frederick (Maud Gertrude Cox),Lost,31,Second,Passenger,British,Married,Havana,,Cuba,1,Adult,Female,1,0,0,1
+COCKBURN,Mr.,Guy Rosebery,Saved,31,Second,Passenger,British,,Pasadena,California,USA,1,Adult,Male,1,1,1,1
+CRITCHISON,Mr.,Stanley Lascelles,Saved,31,Second,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Male,1,1,1,1
+DALE,Mr.,William,Lost,31,Second,Passenger,British (Irish),,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+HUSTON,Miss,Nellie,Lost,31,Second,Passenger,British,Single,Wallassey,,England,1,Adult,Female,1,0,0,1
+KAY,Mrs.,James (Marguerita Belsher),Lost,31,Second,Passenger,British,Married,Bronx,New York,USA,1,Adult,Female,1,0,0,1
+KUEBELLICK,Mr.,Samuel Max,Lost,31,Second,Passenger,British,,Montreal,Quebec,Canada,1,Adult,Male,1,1,0,1
+LEWIS,Mr.,"Isaac ""John""",Saved,31,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+LEWIS,Mrs.,"Isaac ""John"" (Jane Marshall)",Saved,31,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+MacGREGOR,Mr.,Arthur L.,Lost,31,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+McCLINTOCK,Miss,Margaret,Saved,31,Second,Passenger,British (Irish),Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+ROLFE,Mr.,George Sommerville,Lost,31,Second,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+SMITH,Mrs.,Albert R. (Gladys E.),Lost,31,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+STROUD,Mrs.,Edwin Percy Wallace (Constance Eda Simpson),Saved,31,Second,Passenger,British,Married,(New York?),,Mexico (or USA?),1,Adult,Female,1,0,1,1
+TAFT,Mr.,Sidney,Saved,31,Second,Passenger,British,,Needham,Massachusetts,USA,1,Adult,Male,1,1,1,1
+WEIR,Mr.,Cecil Hamilton,Lost,31,Second,Passenger,British,,Victoria,British Columbia,Canada,1,Adult,Male,1,1,0,1
+WINTER,Miss,Thirza,Saved,31,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+BROWN,Mr.,William,Saved,31,Third,Passenger,British,Single,(?) Toronto,(?) Ontario or Alaska,(?) USA or Canada,1,Adult,Male,1,1,1,1
+DHENIN,Mr.,Thomas,Saved,31,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+DOYLE,Mr.,Michael,Saved,31,Third,Passenger,British (Irish),,Great Barrington,,USA,1,Adult,Male,1,1,1,1
+HESKETH,Mr.,Alfred W.,Saved,31,Third,Passenger,British,,Welland,Ontario,Canada,1,Adult,Male,1,1,1,1
+MASON,Mr.,Joseph Howard,Lost,31,Third,Passenger,British,,Detroit,Michigan,USA,1,Adult,Male,1,1,0,1
+MUIRHEAD,Mr.,William,Saved,31,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+STEVENSON,Mr.,Hugh,Lost,31,Third,Passenger,British,,Yonkers,New York,USA,1,Adult,Male,1,1,0,1
+VEALS,Mr.,Albert Edward,Saved,31,Third,Passenger,British,Married,Orange,New Jersey,USA,1,Adult,Male,1,1,1,1
+COMERFORD,Mr. ,Thomas,Saved,31,Victualling,Crew,British (Irish),,,,,1,Adult,Male,1,1,1,0
+HENDERSON,Mr. ,John,Saved,31,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+WOOD,Mr. ,Walter,Saved,31,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HILL,Mrs.,"Richard (Emma ""Emmie"" Jane Haynes)",Saved,31,Second,Passenger,British,Married,Schenectady,New York,USA,1,Adult,Female,1,0,1,1
+MARTIN,Mr.,Charles D.,Lost,31,Second,Passenger,British,,Pittsburgh,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+DOYLE,Mr.,Peter,Lost,32,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+BATES,Mr.,"Lindon Wallace, Jr.",Lost,32,Saloon,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+KEEBLE,Mrs.,Wilfrid R. (Fannie Maud Goldsbrough),Saved,32,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MACKWORTH,Lady,Humphrey (Margaret Haig Thomas),Saved,32,Saloon,Passenger,British,Married,Cardiff,,Wales,1,Adult,Female,1,0,1,1
+MILLER,Captain,James Blaine,Lost,32,Saloon,Passenger,USA,,Washington,District of Columbia,USA,1,Adult,Male,1,1,0,1
+PAPPADOPOULO,Mrs.,Michael N. (Angela),Saved,32,Saloon,Passenger,Greek,Married,Athens,,Greece,1,Adult,Female,1,0,1,1
+THOMPSON,Mr.,Elbridge Blish,Lost,32,Saloon,Passenger,USA,Married,Seymour,Indiana,USA,1,Adult,Male,1,1,0,1
+THOMPSON,Mrs.,Elbridge Blish (Maude Robinson),Saved,32,Saloon,Passenger,USA,Married,Seymour,Indiana,USA,1,Adult,Female,1,0,1,1
+TIBERGHIEN,Mr.,Georges,Lost,32,Saloon,Passenger,French,,,,France,1,Adult,Male,1,1,0,1
+WALKER,Mr.,David (secretary to Dr. Pearson),Lost,32,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+WILLIAMS,Mr.,Thomas Henry,Lost,32,Saloon,Passenger,British,,Liverpool,,England,1,Adult,Male,1,1,0,1
+BRADDICK,Mr.,Sidral William,Lost,32,Second,Passenger,British,,Minneapolis,Minnesota,USA,1,Adult,Male,1,1,0,1
+BRAMMER,Mrs.,Richard H. (Elizabeth Jane Bott),Saved,32,Second,Passenger,British,Married,Trenton,New Jersey,USA,1,Adult,Female,1,0,1,1
+BRETHERTON,Mrs.,Cyril Herbert Emanuel (Norah Annie Keating),Saved,32,Second,Passenger,USA,Married,Santa Monica,California,USA,1,Adult,Female,1,0,1,1
+COWPER,Mr.,Ernest Sedgwick,Saved,32,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+DALRYMPLE,Mr.,David,Saved,32,Second,Passenger,British,,Hoboken,New Jersey,USA,1,Adult,Male,1,1,1,1
+GRIFFITHS,Mr.,Christopher William,Saved,32,Second,Passenger,British,,Winnipeg or Pittsburgh,Manitoba or Pennsylvania,Canada or USA,1,Adult,Male,1,1,1,1
+GWYER,Reverend,Herbert Linford,Saved,32,Second,Passenger,British,Married,Saskatoon,Saskatchewan,Canada,1,Adult,Male,1,1,1,1
+HANES,Mr.,Duncan Arthur Walpole,Saved,32,Second,Passenger,British,,Saskatoon,Saskatchewan,Canada,1,Adult,Male,1,1,1,1
+HENDERSON,Mrs.,"Harris ""Huntley"" Russell (Violet Alice Yeatman)",Saved,32,Second,Passenger,British,Married,Montréal,Quebec,Canada,1,Adult,Female,1,0,1,1
+KENNEY,Mrs.,Peter (Margaret),Lost,32,Second,Passenger,British (Irish),Widowed,Charlestown,,USA,1,Adult,Female,1,0,0,1
+LANDER,Mr.,Edward Harris,Saved,32,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+McGINLEY,Mr.,Patrick Vincent,Saved,32,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+McKECHAN,Mrs.,Robert (Elizabeth Ballantyne),Saved,32,Second,Passenger,British/USA,Married,Gillespie,Illinois,USA,1,Adult,Female,1,0,1,1
+MIDDLEMAST,Mrs.,Edward (Isabella L. Woodget),Saved,32,Second,Passenger,British,Married,Regina,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+MORRIS,Reverend,Hugh Carlton Syddall,Saved,32,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+PELLS,Mrs.,Cyril Elmore (Mary Anita Reeve),Saved,32,Second,Passenger,British,Married,Vancouver,British Columbia,Canada,1,Adult,Female,1,0,1,1
+SHAW,Miss,Emily,Lost,32,Second,Passenger,British,Single,Winnipeg,Manitoba,Canada,1,Adult,Female,1,0,0,1
+SMITH,Mr.,George Arthur,Lost,32,Second,Passenger,British,,Rochester,New York,USA,1,Adult,Male,1,1,0,1
+WILLIAMS,Mr.,Thomas J.,Saved,32,Second,Passenger,British,,,,Wales,1,Adult,Male,1,1,1,1
+BODELL,Mr.,Thomas,Lost,32,Third,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+FARROW,Mr.,Robert,Saved,32,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,1,1
+JAMES,Miss,Violet Isabel,Saved,32,Third,Passenger,British,Single,Edmonton,Alberta,Canada,1,Adult,Female,1,0,1,1
+KELLY,Miss,Marie,Lost,32,Third,Passenger,British (Irish),Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+KING,Mr.,George,Lost,32,Third,Passenger,British,,W. Frankfort,,USA,1,Adult,Male,1,1,0,1
+KULICZ,Mr.,Stegan,Lost,32,Third,Passenger,Russian (Polish),,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+LIGHT,Mr.,Herbert,Saved,32,Third,Passenger,British,,Camden,New Jersey,USA,1,Adult,Male,1,1,1,1
+LOSEVICZ,Mr.,Fadej,Lost,32,Third,Passenger,Russian,,Woodhaven,,USA,1,Adult,Male,1,1,0,1
+McCLAMMOND,Mr.,Samuel,Saved,32,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SHARP,Mrs.,Annie,Saved,32,Third,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Female,1,0,1,1
+SIKORA,Mr.,Joseph,Lost,32,Third,Passenger,Russian,,Buffalo,New York,USA,1,Adult,Male,1,1,0,1
+WEBB,Mrs.,William (Sarah),Lost,32,Third,Passenger,British,Married,Medforth,,USA,1,Adult,Female,1,0,0,1
+YOHANAN,Mr.,Alvaretz,Saved,32,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+SLIGHT,Mr.,Harold James,Lost,32,Third (Distressed British Seaman),Passenger,British,,,,,1,Adult,Male,1,1,0,1
+ADAMSON,Mr. ,Thomas,Saved,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+CALDICOTT,Mr. ,Samuel,Saved,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+DEINER,Mr. ,Frederick,Saved,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+DEWHURST,Mrs.,Elizabeth Ross Morris,Saved,32,Victualling,Crew,British,,,,,1,Adult,Female,1,0,1,0
+Le TOUZEL,Mr. ,"Le TOUZEL, Mr. Sydney Gybbon",Saved,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+MURPHY,Mr. ,John Henry,Lost,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+SHEIL,Mr. ,Michael S.,Saved,32,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HERTZ,Mr.,Douglas Grant,Saved,32,Second,Passenger,British,,St. Louis,Missouri,USA,1,Adult,Male,1,1,1,1
+JONES,Mr.,Arthur Rowland,Saved,33,Deck,Crew,British,,,,,1,Adult,Male,1,1,1,0
+QUIRK,Mr.,William Eduard,Lost,33,Deck,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BISTIS,Mr.,Leonidas M.,Lost,33,Saloon,Passenger,Greek,,Atlanta,Georgia,USA,1,Adult,Male,1,1,0,1
+HAWKINS,Mr.,Frederick William,Lost,33,Saloon,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+HODGES,Mr.,William Sterling,Lost,33,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+MILLS,Mr.,Charles Veitch,Lost,33,Saloon,Passenger,USA,Married,New Rochelle,New York,USA,1,Adult,Male,1,1,0,1
+RANKIN,Mr.,Robert,Saved,33,Saloon,Passenger,USA,Married,Ithaca,New York,USA,1,Adult,Male,1,1,1,1
+YUNG,Mr.,Philippe Joseph,Saved,33,Saloon,Passenger,Belgian,,Antwerp,,Belgium,1,Adult,Male,1,1,1,1
+ARTER,Mr.,James Sydney,Saved,33,Second,Passenger,British,,Seattle,Washington,USA,1,Adult,Male,1,1,1,1
+BRYCE,Mr.,Hugh B.,Saved,33,Second,Passenger,British,Married,Syracuse,New York,USA,1,Adult,Male,1,1,1,1
+BRYCE,Mrs.,Hugh B. (Annabelle Anderson),Saved,33,Second,Passenger,British,Married,Syracuse,New York,USA,1,Adult,Female,1,0,1,1
+CAMPBELL,Mrs.,William (Amy E. Oliver),Saved,33,Second,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,1,1
+CANDLISH,Mr.,Arthur,Lost,33,Second,Passenger,USA,Married,Pawtucket,Rhode Island,USA,1,Adult,Male,1,1,0,1
+FENTIMAN,Miss,Nellie,Lost,33,Second,Passenger,British,Single,Manchester,(?) Massachusetts,USA,1,Adult,Female,1,0,0,1
+FERRIER,Mr.,Alexander Hubert Buxton,Lost,33,Second,Passenger,British,Married,Penticton,British Columbia,Canada,1,Adult,Male,1,1,0,1
+HOPKINS,Miss,Alice Eliza,Lost,33,Second,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+HULL,Mrs.,George (Winifred Keeling),Saved,33,Second,Passenger,British,Married,Winnipeg,Manitoba,Canada,1,Adult,Female,1,0,1,1
+LADD,Mr.,Owen,Lost,33,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+MACKAY,Mr.,Hamish,Lost,33,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+McCORKINDALE,Mrs.,Daniel (Elizabeth Ritchie),Lost,33,Second,Passenger,British,Married,Chromo,Colorado,USA,1,Adult,Female,1,0,0,1
+OWENS,Mrs.,Hubert Isaacs (Cecelia Mildred Smith) (sister of Alfred Smith),Saved,33,Second,Passenger,British,Married,Ellwood City,Pennsylvania,USA,1,Adult,Female,1,0,1,1
+PALMER,Mrs.,Albert (Annie Oakes),Lost,33,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+SORENSON,Mr.,Soren,Saved,33,Second,Passenger,British,,Edmonton,Alberta,Canada,1,Adult,Male,1,1,1,1
+SPILLMAN,Mr.,John Bowen,Lost,33,Second,Passenger,British,Married,Wyandotte,Michigan,USA,1,Adult,Male,1,1,0,1
+THOMAS,Mr.,Ernest,Lost,33,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+WHALEY,Mr.,Robert William,Saved,33,Second,Passenger,British,,Victoria,British Columbia,Canada,1,Adult,Male,1,1,1,1
+YEATMAN,Mrs.,Charles Aylmer Luttrell (Cora Rose Gower),Lost,33,Second,Passenger,British,Married,Montréal,Quebec,Canada,1,Adult,Female,1,0,0,1
+BABA,Mr.,John Jacob,Saved,33,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+BABEICZ,Mr.,Jakim,Lost,33,Third,Passenger,Russian (Polish),,New York,New York,USA,1,Adult,Male,1,1,0,1
+COOPER,Mrs.,Nellie Elizabeth,Lost,33,Third,Passenger,British,Married,New Bedford,Massachusetts,USA,1,Adult,Female,1,0,0,1
+DHENIN,Mrs.,Thomas (Evelyn Thomson),Lost,33,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+GOODALL,Mrs.,William (Beatrice),Lost,33,Third,Passenger,British,Married,Kearney,New Jersey,USA,1,Adult,Female,1,0,0,1
+HURLEY,Mr.,Charles Edwin,Lost,33,Third,Passenger,USA,Married,Brockton,Massachusetts,USA,1,Adult,Male,1,1,0,1
+KAPERALIA,Mr.,Nikola,Lost,33,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+KILKENNY,Miss,Delia Mary,Saved,33,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+SELF,Mr.,James,Lost,33,Third,Passenger,British,Married,,,Canada,1,Adult,Male,1,1,0,1
+SMITH,Mr.,George,Saved,33,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,1,1
+CHISHOLM,Mr. ,Robert Daniel Fletcher,Saved,33,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HOWDLE,Mrs.,Jane Ellen (Jane Ellen Hughes),Lost,33,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+PENNY,Mr. ,Algernon Percy,Saved,33,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+PHILLIPS,Miss,Mary,Saved,33,Victualling,Crew,British,,,,,1,Adult,Female,1,0,1,0
+DUNCAN,Mr.,Robert Henry,Saved,34,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+GOULD,Mr.,Richard,Lost,34,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BERNARD,Mr.,Oliver Percy,Saved,34,Saloon,Passenger,British,Single,London,,England,1,Adult,Male,1,1,1,1
+BROWN,Mr.,William Henry Helm,Lost,34,Saloon,Passenger,British,,Buffalo,New York,USA,1,Adult,Male,1,1,0,1
+LUCK,Mrs.,Arthur Courtlandt (Charlotte Field),Lost,34,Saloon,Passenger,USA,Married,Worcester,Massachusetts,USA,1,Adult,Female,1,0,0,1
+PADILLA,Mr.,Frederico G.,Lost,34,Saloon,Passenger,Mexican,,Liverpool,,England,1,Adult,Male,1,1,0,1
+PEARL,Mrs.,Frederic Warren (Amy Lea Duncan),Saved,34,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+ROGERS,Mr.,Frank Albert,Lost,34,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+TURNER,Mr.,Scott,Saved,34,Saloon,Passenger,USA,,Lansing,Michigan,USA,1,Adult,Male,1,1,1,1
+BUSVINE,Mr.,William Robert,Lost,34,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+CROSSLEY,Mrs.,Cyrus (Sylvia Ellen Milsom),Saved,34,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+HOLLAND,Mrs.,H. Hedley L. (Nina),Saved,34,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+KELLY,Miss,Margaret S.,Lost,34,Second,Passenger,USA,Single,Pittsburgh,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+LINES,Mrs.,Stanley Llandolf Burnett (Ethel Moore Lamping),Saved,34,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MATTHEWS,Lieutenant,Robert,Lost,34,Second,Passenger,British,Married,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+MURDOCH,Miss,Jessie,Saved,34,Second,Passenger,British,Single,Westbury,New York,USA,1,Adult,Female,1,0,1,1
+PRESS,Miss,Mary Jane,Lost,34,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+BOZENOF,Mr.,Dennis,Saved,34,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+DELANEY,Miss,Mary,Saved,34,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+DUNN,Mr.,Thomas W.,Lost,34,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+DUPLEX,Miss,Kate M.,Lost,34,Third,Passenger,British (Irish),Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+FEELEY,Mrs.,Teresa (Teresa Clery),Lost,34,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+IVANNIK,Mr.,Peter,Lost,34,Third,Passenger,Russian,,Jamaica,New York,USA,1,Adult,Male,1,1,0,1
+MALICZ,Mr.,Pawel L.,Saved,34,Third,Passenger,Russian (Polish),,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+PETRENOK,Mr.,Andrej,Lost,34,Third,Passenger,Russian,,Mechanicsville,,USA,1,Adult,Male,1,1,0,1
+PULIK,Mr.,Mychail,Saved,34,Third,Passenger,Russian,,Sault Ste. Marie,Michigan,USA,1,Adult,Male,1,1,1,1
+WELSH,Mr.,John,Saved,34,Third,Passenger,British,Single,Manchester,,England,1,Adult,Male,1,1,1,1
+ALLPORT,Mr. ,Harry Ride George,Saved,34,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+McCORMACK,Miss,Margarita Christina ,Lost,34,Victualling,Crew,British (Indian),,,,,1,Adult,Female,1,0,0,0
+SIMPSON,Mr. ,Malcolm,Saved,34,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+WEBB,Miss,Minnie,Saved,34,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+CAMPBELL,Mr.,Patrick,Lost,35,Engineering,Crew,British (Irish),,Newry,,Ireland,1,Adult,Male,1,1,0,0
+COLLINS,Mr.,Patrick,Lost,35,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+DOYLE,Mr.,John,Lost,35,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+COLEBROOK,Mr.,Herbert Gladstone,Saved,35,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+DALY,Mr.,Harold Mayne,Saved,35,Saloon,Passenger,British,,Vancouver,British Columbia,Canada,1,Adult,Male,1,1,1,1
+HODGES,Mrs.,William Sterling (Sarah Grisemer),Lost,35,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+LEARY,Mr.,James Joseph,Saved,35,Saloon,Passenger,USA,,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+MILNE,Miss,Caroline (nurse to Master Stephens),Lost,35,Saloon,Passenger,British,Single,Montreal,Quebec,Canada,1,Adult,Female,1,0,0,1
+PEARDON,Mr.,Franklin Arthur,Lost,35,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+BINGHAM,Miss,Alice Winifred,Lost,35,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+BOOTH,Mr.,John,Lost,35,Second,Passenger,British,,Alexandria,Virginia,USA,1,Adult,Male,1,1,0,1
+DONAHUE,Miss,Sarah,Lost,35,Second,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+GRAY,Mr.,Robert Duncan,Saved,35,Second,Passenger,British,,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+HENN,Mr.,Ernest George,Lost,35,Second,Passenger,British,Married,Saskatoon,Saskatchewan,Canada,1,Adult,Male,1,1,0,1
+HOPKINS,Miss,Kate Mary,Lost,35,Second,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+NEVILLE,Mrs.,Albert Charles (Mabel Frances),Saved,35,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+O'DONNELL,Mr.,Patrick,Saved,35,Second,Passenger,USA,,West Hoboken,New Jersey,USA,1,Adult,Male,1,1,1,1
+PARTLETT,Mrs.,Frank (Amy),Lost,35,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+PIRIE,Mrs.,Arthur (Annie),Lost,35,Second,Passenger,British,Married,Lynn,,USA,1,Adult,Female,1,0,0,1
+SECCHI,Mrs.,Herbert (Edith Helen West),Saved,35,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+SMITH,Mr.,Albert R.,Lost,35,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+BOZENOF,Mr.,Philate,Saved,35,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+ESHOO,Mr.,Benjamin,Lost,35,Third,Passenger,British,,Yonkers,New York,USA,1,Adult,Male,1,1,0,1
+HEBDEN,Mr.,Robert,Saved,35,Third,Passenger,British,Married,New Bedford,Missouri,USA,1,Adult,Male,1,1,1,1
+LOCKWOOD,Mrs.,Dick (Florence Robshaw),Lost,35,Third,Passenger,British,Married,Harrison,,USA,1,Adult,Female,1,0,0,1
+MARSHALL,Mrs.,Fannie E.,Saved,35,Third,Passenger,British,Married,,,Canada,1,Adult,Female,1,0,1,1
+McLOUGHLIN,Mr.,Patrick J.,Saved,35,Third,Passenger,British,Married,Hartford,Connecticut,USA,1,Adult,Male,1,1,1,1
+OHANNIA,Mr.,Aziz,Lost,35,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+SEISIAN,Mr.,Karatioum,Lost,35,Third,Passenger,Persian,,Troy,New York,USA,1,Adult,Male,1,1,0,1
+JORGENSON,Mrs.,Karen,Lost,35,Victualling,Crew,Danish,,,,,1,Adult,Female,1,0,0,0
+LEACH,Mr. ,John F.,Saved,35,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+ROBERTS,Miss,Annie Jane,Lost,35,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+WOOD,Mr. ,Henry Edward,Lost,35,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+GRANT,Mr.,Michael,Lost,36,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+WELSH,Mr.,Martin,Lost,36,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+LEHMANN,Mr.,Isaac,Saved,36,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+LEVINSON,Mr.,"Joseph, Jr.",Saved,36,Saloon,Passenger,British,,,,Canada,1,Adult,Male,1,1,1,1
+RATCLIFF,Mr.,Norman Albert,Saved,36,Saloon,Passenger,British,,Gillingham,Kent,England,1,Adult,Male,1,1,1,1
+SHYMER,Mrs.,Robert D. (Anne C. Justice Patterson),Lost,36,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+STAINTON,Mr.,William (valet to Mr. Frohman),Lost,36,Saloon,Passenger,USA,Single (?),New York,New York,USA,1,Adult,Male,1,1,0,1
+WAITES,Miss,Martha Mattie Pinder (maid to the Burnsides),Lost,36,Saloon,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+ABRAMOWITZ,Mr.,Samuel,Saved,36,Second,Passenger,Russian,,Paris,,France,1,Adult,Male,1,1,1,1
+BILBROUGH,Mr.,George William,Saved,36,Second,Passenger,British,,Smith Falls,Ontario,Canada,1,Adult,Male,1,1,1,1
+BIRD,Mrs.,Lyndon (Rose Holloway),Lost,36,Second,Passenger,British,Married,,,England,1,Adult,Female,1,0,0,1
+CHAMBERS,Mr.,Guy Winstaney P.,Saved,36,Second,Passenger,British,Married,Boston,Massachusetts,USA,1,Adult,Male,1,1,1,1
+CROSBY,Miss,Ellen,Lost,36,Second,Passenger,British,Single,Vancouver,British Columbia,Canada,1,Adult,Female,1,0,0,1
+EWART,Mr.,Robert James,Saved,36,Second,Passenger,USA,Single,Brooklyn,New York,USA,1,Adult,Male,1,1,1,1
+HALDANE,Mr.,James Cargill,Saved,36,Second,Passenger,British,,Boston,Massachusetts,USA,1,Adult,Male,1,1,1,1
+HAMPSHIRE,Miss,Elizabeth Eleanor,Saved,36,Second,Passenger,British,Single,Pawtucket,Rhode Island,USA,1,Adult,Female,1,0,1,1
+HUNTER,Mr.,George Hardie,Lost,36,Second,Passenger,British,Married,Atlanta,Georgia,USA,1,Adult,Male,1,1,0,1
+MANBY,Miss,Ada,Saved,36,Second,Passenger,British,Single,Montréal,Quebec,Canada,1,Adult,Female,1,0,1,1
+McLELLAN,Miss,Sarah,Saved,36,Second,Passenger,British,Single,Lake Forest,Illinois,USA,1,Adult,Female,1,0,1,1
+MILFORD,Mr.,Frederick John,Saved,36,Second,Passenger,USA,,Hancock,Michigan,USA,1,Adult,Male,1,1,1,1
+MOORE,Dr.,Daniel Virgil,Saved,36,Second,Passenger,USA,,Yankton,South Dakota,USA,1,Adult,Male,1,1,1,1
+SAMOULESCU,Mr.,David (Dave Samuels),Lost,36,Second,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+YEATMAN,Mr.,Charles Aylmer Luttrell,Lost,36,Second,Passenger,British,Married,Montréal,Quebec,Canada,1,Adult,Male,1,1,0,1
+BEAUCHAMP,Mr.,William,Saved,36,Third,Passenger,British,,Otsego,,USA,1,Adult,Male,1,1,1,1
+BODELL,Mrs.,Thomas (Florence Saunders),Lost,36,Third,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+FRANKUM,Mr.,Joseph,Saved,36,Third,Passenger,British,Married,Detroit,Michigan,USA,1,Adult,Male,1,1,1,1
+FRANKUM,Mrs.,Joseph (Annie Mariah B.),Lost,36,Third,Passenger,British,Married,Detroit,Michigan,USA,1,Adult,Female,1,0,0,1
+GIBBONS,Mr.,Michael,Lost,36,Third,Passenger,USA,Single,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+GILILEN,Mr.,Ellie,Saved,36,Third,Passenger,Persian,,Yonkers,New York,USA,1,Adult,Male,1,1,1,1
+HANCOCK,Mr.,Thomas,Lost,36,Third,Passenger,British,,Bisbee,,USA,1,Adult,Male,1,1,0,1
+HOWARD,Mr.,William,Lost,36,Third,Passenger,British,,St. Louis,Missouri,USA,1,Adult,Male,1,1,0,1
+IRETON,Mr.,Edward,Lost,36,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+JOHANNSEN,Mr.,Sven,Lost,36,Third,Passenger,Swedish,Single,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+DUNCAN,Miss,Christina Campbell,Lost,36,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+CARR-JONES,Mr.,E.,Lost,37,Band,Crew,British,,,,,1,Adult,Male,1,1,0,0
+McMAHON,Mr.,Patrick,Lost,37,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+BURGESS,Mr.,Henry George,Saved,37,Saloon,Passenger,British,,Bradford,,England,1,Adult,Male,1,1,1,1
+CROMPTON,Mrs.,Paul (Gladys Mary Salis-Schawbe),Lost,37,Saloon,Passenger,British,Married,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+LONEY,Mrs.,Allen Donnellan (Catharine Wolfe Brown),Lost,37,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+VANDERBILT,Mr.,Alfred Gwynne,Lost,37,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+WOOD,Mr.,"Arthur ""Al"" John",Lost,37,Saloon,Passenger,British,,,,England,1,Adult,Male,1,1,0,1
+CROSSLEY,Mr.,Cyrus,Saved,37,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+FREEMAN,Mr.,John,Saved,37,Second,Passenger,British,Married,Falkain,British Columbia,Canada,1,Adult,Male,1,1,1,1
+HUNT,Miss,Isabella Gertrude,Lost,37,Second,Passenger,British,Single,Haverford,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+SALT,Mr.,Henry Jordan,Lost,37,Second,Passenger,USA,Married,Boston,Massachusetts,USA,1,Adult,Male,1,1,0,1
+SIMPSON,Reverend,Henry Wood,Saved,37,Second,Passenger,British,,Roseland,British Columbia,Canada,1,Adult,Male,1,1,1,1
+THOMPSON,Mr.,Albert,Lost,37,Second,Passenger,British (Irish),,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+THOMPSON,Mr.,Robert Joseph,Lost,37,Second,Passenger,British,,Holdridge,,USA,1,Adult,Male,1,1,0,1
+WORDSWORTH,Miss,Ruth Mary,Saved,37,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+AMERAIOF,Mr.,Benjamin,Lost,37,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+BLANKMAN,Mr.,Judka,Saved,37,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+CATTEW,Miss,Emily,Lost,37,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+FLYNN,Mr.,John,Lost,37,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+GRIGORIAN,Mr.,Majlin,Saved,37,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,1,1
+HANUS,Mr.,Charles,Lost,37,Third,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+HANUS,Mrs.,Charles (Mary),Lost,37,Third,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+SERGIS,Mr.,George,Saved,37,Third,Passenger,Persian,,Yonkers,New York,USA,1,Adult,Male,1,1,1,1
+SOLONINA,Mr.,Stefan,Lost,37,Third,Passenger,Russian,,East St. Louis,Illinois,USA,1,Adult,Male,1,1,0,1
+WILLIAMS,Mrs.,Harry John (Elizabeth Annie Millman),Lost,37,Third,Passenger,British,Married,Plainfield,New Jersey,USA,1,Adult,Female,1,0,0,1
+ZALIACHANOFF,Mr.,Khaeho,Lost,37,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+BOYD,Mr. ,Fullerton Rimmer,Saved,37,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+NEEMS,Mr. ,William Francis,Lost,37,Victualling,Crew,British,Married,New Brighton,,England,1,Adult,Male,1,1,0,0
+RICHARDSON,Miss,Annie,Lost,37,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+WYNNE,Mr. ,Joseph Dominic,Lost,37,Victualling,Crew,British,,Liverpool,,England,1,Adult,Male,1,1,0,0
+HARRISON,Mr.,Herbert Kesteven,Lost,37,Second,Passenger,British,Single,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+CAMERON,Mr.,Charles W.,Lost,38,Band,Crew,British,,,,,1,Adult,Male,1,1,0,0
+McDERMOTT,Dr.,James Farrell,Lost,38,Deck,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+TOOLE,Mr.,James,Lost,38,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+WIENCKE,Mr.,Paul Frederick (Friedriche),Lost,38,Engineering,Crew,German,Married,Liverpool,,England,1,Adult,Male,1,1,0,0
+BALDWIN,Mrs.,Harry Bradley (Mary Margaret MacCauley),Lost,38,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+BOHAN,Mr.,James,Saved,38,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+CROSS,Mr.,Ambrose Betham,Saved,38,Saloon,Passenger,British,,,,Federated Malay States,1,Adult,Male,1,1,1,1
+HILL,Mr.,Charles Tilden,Saved,38,Saloon,Passenger,USA,Married,London,,England,1,Adult,Male,1,1,1,1
+MATHEWS,Mr.,Arthur Thomas,Saved,38,Saloon,Passenger,British,,Montreal,Quebec,Canada,1,Adult,Male,1,1,1,1
+McLEAN,Mr.,Walter,Lost,38,Saloon,Passenger,British,,,,France,1,Adult,Male,1,1,0,1
+SECCOMBE,Miss,Elizabeth Ann,Lost,38,Saloon,Passenger,British,Single,Petersborough,New Hampshire,USA,1,Adult,Female,1,0,0,1
+STURDY,Mr.,Charles Frederick,Saved,38,Saloon,Passenger,British,,Montreal,Quebec,Canada,1,Adult,Male,1,1,1,1
+TRUMBULL,Mr.,Isaac B.,Lost,38,Saloon,Passenger,USA,,Bridgeport,Connecticut,USA,1,Adult,Male,1,1,0,1
+BARRY,Mr.,Edward,Saved,38,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+BOOTH-JONES,Mr.,Edward,Lost,38,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+BURLEY,Mrs.,Reuben (Florence Bull),Lost,38,Second,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Female,1,0,0,1
+COLLIS,Mr.,Edwin Martin,Saved,38,Second,Passenger,USA,,Riverside,California,USA,1,Adult,Male,1,1,1,1
+GILL,Mrs.,James (Catherine Harris),Lost,38,Second,Passenger,British/USA,Widowed,Gillespie,,USA,1,Adult,Female,1,0,0,1
+HAIGH,Mr.,James Harold,Lost,38,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+LOHDEN,Mrs.,H. Arnold (Sarah Rose Mary Arnold),Saved,38,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MacHARDY,Mrs.,Peter Kenneth (Annie R.),Lost,38,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+MARICHAL,Professor,Joseph Phillibert René,Saved,38,Second,Passenger,French,Married,Kingston,Ontario,Canada,1,Adult,Male,1,1,1,1
+McCOLM,Mrs.,James A. (Christina Harrow S. Rae),Saved,38,Second,Passenger,British,Married,Ottawa,Ontario,Canada,1,Adult,Female,1,0,1,1
+MOODY,Miss,Martha (Meta),Saved,38,Second,Passenger,British (Irish),Single,Limavady,County Londonderry,Ireland,1,Adult,Female,1,0,1,1
+RICHARDS,Mrs.,"Thomas Henry (Phillippa ""Phyllis"" Conner)",Saved,38,Second,Passenger,British,Married,Meaderville,Montana,USA,1,Adult,Female,1,0,1,1
+STROUD,Mr.,Edwin Percy Wallace,Saved,38,Second,Passenger,British,Married,(New York?),,Mexico (or USA?),1,Adult,Male,1,1,1,1
+BARTLEY,Mr.,George Noble,Lost,38,Third,Passenger,British,Married,Welland,Ontario,Canada,1,Adult,Male,1,1,0,1
+BROWN,Miss,Constance,Lost,38,Third,Passenger,British,Single,Philadelphia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+BUTLER,Mr.,William M.,Lost,38,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+CARACITOS,Mr.,George,Lost,38,Third,Passenger,Greek,,New York,New York,USA,1,Adult,Male,1,1,0,1
+COOK,Mr.,William George,Saved,38,Third,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+PODRUBLENY,Mr.,Aleksij,Lost,38,Third,Passenger,Russian,,Niagara Falls,New York,USA,1,Adult,Male,1,1,0,1
+TADUS,Mr.,Asset,Lost,38,Third,Passenger,Persian,,Yonkers,New York,USA,1,Adult,Male,1,1,0,1
+WILLIAMS,Mr.,James,Lost,38,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+BECKETT,Mr. ,Henry,Saved,38,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+GERAGHTY,Mr. ,Martin,Lost,38,Victualling,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+GRIFFITHS,Mr. ,John Humphrey,Saved,38,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HALLAM,Mr. ,Ernest,Saved,38,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+KEWLEY,Mr. ,Ernest Alexander,Lost,38,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+MICHAEL,Mr.,Dewi,Saved,38,Second,Passenger,British,,,,England,1,Adult,Male,1,1,1,1
+BLACK,Mr.,James Joseph,Lost,39,Saloon,Passenger,British,,Liverpool,,England,1,Adult,Male,1,1,0,1
+CROOKS,Mr.,Robert Williams,Lost,39,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+DREDGE,Mrs.,Joseph Allan (Evelyn),Lost,39,Saloon,Passenger,British,Married,Belize,,British Honduras,1,Adult,Female,1,0,0,1
+FORMAN,Mr.,Justus Miles,Lost,39,Saloon,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+JEFFERY,Mr.,Charles Thomas,Saved,39,Saloon,Passenger,USA,,Kenosha,Wisconsin,USA,1,Adult,Male,1,1,1,1
+KNIGHT,Mr.,Charles Harwood,Lost,39,Saloon,Passenger,USA,,Baltimore,Maryland,USA,1,Adult,Male,1,1,0,1
+LANE,Sir,Hugh Percy,Lost,39,Saloon,Passenger,British,Married,Dublin,,Ireland,1,Adult,Male,1,1,0,1
+SMITH,Mrs.,John W. (Jessie Taft),Saved,39,Saloon,Passenger,USA,Married,Braceville,Ohio,USA,1,Adult,Female,1,0,1,1
+STRAUSS,Mr.,Julius,Lost,39,Saloon,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+TOOTAL,Mr.,Frederick Edward Owen,Saved,39,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,1,1
+BARCHARD,Mr.,Edmund E.,Lost,39,Second,Passenger,British,,Columbus,Ohio,USA,1,Adult,Male,1,1,0,1
+BARKER,Mrs.,Thomas (Martha Ann Bullock),Saved,39,Second,Passenger,USA,Married,Trenton,New Jersey,USA,1,Adult,Female,1,0,1,1
+BAXTER,Mrs.,William (Annie E. Ripley),Saved,39,Second,Passenger,British,Married,Welland,Ontario,Canada,1,Adult,Female,1,0,1,1
+BURLEY,Mr.,Reuben,Lost,39,Second,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+BUTTERS,Miss,Margaret,Lost,39,Second,Passenger,British,Single,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+GADSEN,Mr.,Arthur,Saved,39,Second,Passenger,British,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+HUNTER,Mrs.,George Hardie (Maggie MacGregor),Lost,39,Second,Passenger,British,Married,Atlanta,Georgia,USA,1,Adult,Female,1,0,0,1
+LONGDIN,Mr.,Arthur,Lost,39,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+MARICHAL,Mrs.,Joseph Phillibert René (Yvonne Jessie Emerson),Saved,39,Second,Passenger,French,Married,Kingston,Ontario,Canada,1,Adult,Female,1,0,1,1
+NORMAN,Mr.,Robert,Lost,39,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+RICHARDSON,Mrs.,James (Annie),Saved,39,Second,Passenger,British,Married,Philadelphia,Pennsylvania,USA,1,Adult,Female,1,0,1,1
+ANDREATOS,Mr.,Marinos,Lost,39,Third,Passenger,Greek,,New York,New York,USA,1,Adult,Male,1,1,0,1
+BABA,Mr.,George,Lost,39,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+BABICZUK,Mr.,Siemion,Lost,39,Third,Passenger,Russian,,Windsor,Ontario,Canada,1,Adult,Male,1,1,0,1
+BENNETT,Mr.,William,Lost,39,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+HOGAN,Miss,Jane,Saved,39,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+LUKIANOWICZ,Mr.,Wawren,Lost,39,Third,Passenger,Russian (Polish),,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+CONNOLLY,Mr.,Michael,Lost,39,Third,Passenger,British,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+COONEY,Mr.,"Michael, Sr.",Lost,40,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+ORMROD,Mr.,Thomas,Lost,40,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BATTERSBY,Mr.,James Johnson,Saved,40,Saloon,Passenger,British,?,Stockport,,England,1,Adult,Male,1,1,1,1
+BYINGTON,Mr.,Albert Jackson,Saved,40,Saloon,Passenger,USA,Married,São Paulo,,Brazil,1,Adult,Male,1,1,1,1
+LAURIAT,Mr.,"Charles Emelius, Jr.",Saved,40,Saloon,Passenger,USA,Married,Boston,Massachusetts,USA,1,Adult,Male,1,1,1,1
+PAGE,Mr.,John Harvey,Lost,40,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+WILLIAMSON,Mr.,Charles Francis,Lost,40,Saloon,Passenger,USA,Engaged,Paris,,France,1,Adult,Male,1,1,0,1
+BARR,Mrs.,James (Catherine Symington Young),Lost,40,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+BUTLER,Mrs.,W. (Margaret),Lost,40,Second,Passenger,British,Married,Manchester ?,,England,1,Adult,Female,1,0,0,1
+CATHERWOOD,Mrs.,John (Maria Carson),Lost,40,Second,Passenger,USA,Married,West Chester,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+DINGLEY,Mrs.,Edward (Katherine S. Glenn),Lost,40,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+HASTINGS,Mrs.,David (Margaret Anderson Gardiner),Lost,40,Second,Passenger,British (Irish),Widowed,New Rochelle,New York,USA,1,Adult,Female,1,0,0,1
+LAKIN,Miss,Martha Maria,Lost,40,Second,Passenger,British,Single,Saskatoon,Saskatchewan,Canada,1,Adult,Female,1,0,0,1
+NEILSON,Mrs.,Henry (Frances),Lost,40,Second,Passenger,British,Married,Brooklyn,New York,USA,1,Adult,Female,1,0,0,1
+NEVILLE,Mr.,Albert Charles,Lost,40,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+RICHARDS,Mr.,Thomas Henry,Saved,40,Second,Passenger,USA,Married,Meaderville,Montana,USA,1,Adult,Male,1,1,1,1
+BAILEY,Mr.,Frederick Richard,Saved,40,Third,Passenger,British,,Orange,New Jersey,USA,1,Adult,Male,1,1,1,1
+COUGHLAN,Mr.,John J.,Lost,40,Third,Passenger,British (Irish)/USA,Married,Butte,Montana,USA,1,Adult,Male,1,1,0,1
+COUGHLAN,Mrs.,John (Katherine O'Neil),Saved,40,Third,Passenger,British (Irish)/USA,Married,Butte,Montana,USA,1,Adult,Female,1,0,1,1
+MacKENZIE,Mr.,Robert Anderson,Saved,40,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+PHILLIPS,Mr.,William,Lost,40,Third,Passenger,British,,Hillcrest,,Canada,1,Adult,Male,1,1,0,1
+STANDFAST,Mr.,Noel,Lost,40,Third,Passenger,British,,Nanaimo,,Canada,1,Adult,Male,1,1,0,1
+STENSON,Miss,Delia,Lost,40,Third,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+THOMPSON,Mr.,Joseph,Saved,40,Third,Passenger,British,Married,Canton,Ohio,USA,1,Adult,Male,1,1,1,1
+THOMPSON,Mrs.,Joseph (Sarah Ann),Lost,40,Third,Passenger,British,Married,Canton,Ohio,USA,1,Adult,Female,1,0,0,1
+TOPPING,Mrs.,Albert (Margaret Shenty),Lost,40,Third,Passenger,British,Married,Brooklyn,New York,USA,1,Adult,Female,1,0,0,1
+WEBB,Mr.,William,Lost,40,Third,Passenger,British,Married,Medforth,,USA,1,Adult,Male,1,1,0,1
+YOHAMA,Mr.,Envia,Lost,40,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+BIRD,Miss,Marian May,Saved,40,Victualling,Crew,British,,,,,1,Adult,Female,1,0,1,0
+CRAIGIE,Mrs.,Margaret,Saved,40,Victualling,Crew,British,,,,,1,Adult,Female,1,0,1,0
+KIDD,Mr. ,Frank,Saved,40,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+MORSE,Mr. ,Robert,Saved,40,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HEIGHWAY,Mr.,Edward John,Saved,41,Deck,Crew,British (Irish),,Strangford,,Ireland,1,Adult,Male,1,1,1,0
+ORMROD,Mr.,James,Lost,41,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BROOKS,Mr.,"James ""Jay"" Ham",Saved,41,Saloon,Passenger,USA,Married,Bridgeport,Connecticut,USA,1,Adult,Male,1,1,1,1
+KESER,Mr.,Harry J.,Lost,41,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+LEAROYD,Mrs.,Charles Alfred (Mabel Kate Symonds),Saved,41,Saloon,Passenger,British,Married,Sydney,New South Wales,Australia,1,Adult,Female,1,0,1,1
+PERKINS,Mr.,Edwin,Lost,41,Saloon,Passenger,British,,,,England,1,Adult,Male,1,1,0,1
+POSEN,Mr.,Eugene Henry,Saved,41,Saloon,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SLIDELL,Mr.,M. Thomas,Saved,41,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+STACKHOUSE,Commander,Joseph Foster,Lost,41,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,0,1
+BROWNLIE,Mrs.,Thomas (Margaret McKennon),Saved,41,Second,Passenger,British,Married,Freeport,Pennsylvania,USA,1,Adult,Female,1,0,1,1
+CATHERWOOD,Mr.,John,Lost,41,Second,Passenger,USA,Married,West Chester,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+NEILSON,Mr.,Henry,Lost,41,Second,Passenger,British,Married,Brooklyn,New York,USA,1,Adult,Male,1,1,0,1
+PALMER,Miss,Kathleen,Lost,41,Second,Passenger,British,Single,North Augusta,South Carolina,USA,1,Adult,Female,1,0,0,1
+ROGERS,Mr.,Richard James,Lost,41,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+TAYLOR,Mrs.,Stanley Robert (Annie Sarah Johnson),Lost,41,Second,Passenger,USA,,Dorchester,Massachusetts,USA,1,Adult,Female,1,0,0,1
+WHITEHEAD,Miss,Florence,Saved,41,Second,Passenger,British,Single,Boston,Massachusetts,USA,1,Adult,Female,1,0,1,1
+CHARKOWSKI,Mr.,Porflri,Lost,41,Third,Passenger,Russian,,East St. Louis,Illinois,USA,1,Adult,Male,1,1,0,1
+DIAMANDIS,Mr.,Theodore,Saved,41,Third,Passenger,Greek,,New York,New York,USA,1,Adult,Male,1,1,1,1
+HARKENS,Mr.,Alexander,Lost,41,Third,Passenger,British,,Philadelphia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+WARD,Mr.,Joseph,Lost,41,Third,Passenger,British,,Blakely,Georgia,USA,1,Adult,Male,1,1,0,1
+DALEY,Mr.,Daniel,Lost,42,Engineering,Crew,British (Irish),,Ranelagh,,Ireland,1,Adult,Male,1,1,0,0
+O’HARE,Mr.,Owen,Lost,42,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+ALLAN,Lady,Hugh Montagu (Marguerite Ethel MacKenzie),Saved,42,Saloon,Passenger,British,Married,Montreal,Quebec,Canada,1,Adult,Female,1,0,1,1
+BARTLETT,Mr.,George Walter Bowers,Saved,42,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,1,1
+CRICHTON,Mrs.,William C. (Mabel Gardner),Lost,42,Saloon,Passenger,USA,Married,London,,England,1,Adult,Female,1,0,0,1
+KENAN,Dr.,Owen Hill,Saved,42,Saloon,Passenger,USA,,Wilmington,North Carolina,USA,1,Adult,Male,1,1,1,1
+KNIGHT,Miss,Elaine Harwood,Lost,42,Saloon,Passenger,USA,,Baltimore,Maryland,USA,1,Adult,Female,1,0,0,1
+PARTRIDGE,Mr.,Frank E.,Saved,42,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,1,1
+ADAMS,Mr.,Allan H.,Saved,42,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,1,1
+FROST,Mr.,Harry Robinson,Saved,42,Second,Passenger,USA,,Regina,Saskatchewan,Canada,1,Adult,Male,1,1,1,1
+MILLAR,Mrs.,Aubrey M. (Margaret Todd),Lost,42,Second,Passenger,British,Widowed,New York,New York,USA,1,Adult,Female,1,0,0,1
+BLACKBURN,Mr.,George A.,Lost,42,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+HOWLEY,Mrs.,Edward (Rose Howley),Saved,42,Third,Passenger,British,Married,New Rochelle,New York,USA,1,Adult,Female,1,0,1,1
+TARACSEWICS,Mr.,Iwan,Saved,42,Third,Passenger,Russian,,Palmerton,,USA,1,Adult,Male,1,1,1,1
+FOULKES,Mrs.,Margaret Elizabeth (Margaret Elizabeth Hughes),Lost,42,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+McCONKEY,Mr. ,Christopher Evans,Lost,42,Victualling,Crew,British (Irish),,Liverpool (Ambrose Grove),,England,1,Adult,Male,1,1,0,0
+MORROW,Miss,Harding,Lost,42,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+KELLY,Mr.,James Robert,Lost,42,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+CARRIBINE,Mr.,Bernard,Saved,43,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+MADDEN,Mr.,John,Lost,43,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BARNES,Mr.,Allen Byron,Saved,43,Saloon,Passenger,British,?,Berlin,Ontario,Canada,1,Adult,Male,1,1,1,1
+CAMPBELL,Mr.,Alexander,Lost,43,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,0,1
+DEPAGE,Mrs.,Antoine (Marie Picard),Lost,43,Saloon,Passenger,Belgian,Married,Brussells,,Belgium,1,Adult,Female,1,0,0,1
+DREDGE,Mr.,Joseph Allan,Lost,43,Saloon,Passenger,British,Married,Belize,,British Honduras,1,Adult,Male,1,1,0,1
+GORER,Mr.,Edgar Ezekiel,Lost,43,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+GRANT,Mrs.,Montagu Tassell (Chastina Janet Moore),Lost,43,Saloon,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+LASSETTER,Mrs.,Harry Beauchamp (Elisabeth Anne Antill),Saved,43,Saloon,Passenger,British,Married,Sydney (?),,Australia,1,Adult,Female,1,0,1,1
+LONEY,Mr.,Allen Donnellan,Lost,43,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+MAURICE,Mr.,George Solomon,Lost,43,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+PAPPADOPOULO,Mr.,Michael N.,Lost,43,Saloon,Passenger,Greek,Married,Athens,,Greece,1,Adult,Male,1,1,0,1
+SCHWABACHER,Mr.,Leo M.,Lost,43,Saloon,Passenger,USA,Divorced (?),Paris,,France,1,Adult,Male,1,1,0,1
+STONE,Mr.,Herbert Stuart,Lost,43,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+BRILLY,Mr.,Louis,Lost,43,Second,Passenger,Italian,Engaged,New York,New York,USA,1,Adult,Male,1,1,0,1
+BROWN,Mr.,Daniel Taylor,Saved,43,Second,Passenger,British,,Los Angeles,California,USA,1,Adult,Male,1,1,1,1
+BUTLER,Mr.,Thomas O'Brien,Lost,43,Second,Passenger,British,,Ireland,,Ireland,1,Adult,Male,1,1,0,1
+DAVIES,Mr.,George F.,Lost,43,Second,Passenger,British,,,,Wales,1,Adult,Male,1,1,0,1
+GLANCY,Mr.,Joseph,Saved,43,Second,Passenger,British (Irish),,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+HOLBOURN,Professor,"John ""Ian"" Bernard Stoughton",Saved,43,Second,Passenger,British,Married,Edinburgh and Isle of Foula,,Scotland,1,Adult,Male,1,1,1,1
+DUNCAN,Mrs.,Kate Cassie,Saved,43,Third,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+KOMARYSHYN,Mr.,Hryhory,Saved,43,Third,Passenger,Russian (Ukrainian?),,Sault Sainte Marie,Michigan,USA,1,Adult,Male,1,1,1,1
+WARD,Mrs.,George (Ellen),Saved,43,Third,Passenger,British,Married,Newark,New Jersey,USA,1,Adult,Female,1,0,1,1
+JONES,Miss,Mary Elizabeth,Lost,43,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+McGREGOR,Miss,Agnes,Lost,43,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+MORECROFT,Mrs.,Herbert (Fannie Jane Chamberlain),Saved,43,Victualling,Crew,British,,,,,1,Adult,Female,1,0,1,0
+COCKBURN,Mr.,Andrew,Saved,44,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+CURRAN,Mr.,Patrick,Lost,44,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+McCORMICK,Mr.,James,Lost,44,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+NORTON,Mr.,Bernard Patrick,Lost,44,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+O’NEILL,Mr.,Michael,Lost,44,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+ROWAN,Mr.,Fred,Saved,44,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,1,0
+BOWRING,Mr.,Charles Warren,Saved,44,Saloon,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+CROMPTON,Mr.,Paul,Lost,44,Saloon,Passenger,British,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+FENWICK,Mr.,John,Lost,44,Saloon,Passenger,,,,,Switzerland,1,Adult,Male,1,1,0,1
+HOPKINS,Mr.,Albert Lloyd,Lost,44,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+JONES,Miss,Margaret Druller,Lost,44,Saloon,Passenger,British,Single,Honolulu,Hawaii Territory,USA,1,Adult,Female,1,0,0,1
+MacLENNAN,Mr.,Frederick Ebenezer,Lost,44,Saloon,Passenger,British,,Glasgow,,Scotland,1,Adult,Male,1,1,0,1
+MYERS,Mr.,Herman Abraham,Lost,44,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+SCHWARTE,Mr.,Friedrich Wilhelm August,Saved,44,Saloon,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SHIELDS,Mrs.,Victor E. (Retta Cohen),Lost,44,Saloon,Passenger,USA,Married,Cincinnati,Ohio,USA,1,Adult,Female,1,0,0,1
+SONNEBORN,Mr.,Henry Becker,Lost,44,Saloon,Passenger,USA,Single,Paris,,France,1,Adult,Male,1,1,0,1
+VASSAR,Mr.,William Arthur Fisher,Saved,44,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,1,1
+CLAY,Miss,Elizabeth Alice,Lost,44,Second,Passenger,British,Single,San Francisco,California,USA,1,Adult,Female,1,0,0,1
+MITCHELHILL,Mr.,William (Mitchell Hill),Lost,44,Second,Passenger,British,,St. Joseph,Missouri,USA,1,Adult,Male,1,1,0,1
+PHAIR,Reverend,Ernest Edward Maxwell,Lost,44,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,0,1
+TIJOU,Mr.,Walter Edgar,Saved,44,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+BISHOP,Mr.,William,Lost,44,Third,Passenger,British,,Hamilton,Ontario,USA,1,Adult,Male,1,1,0,1
+LEYLAND,Mr.,William,Lost,44,Third,Passenger,British,,San Francisco,California,USA,1,Adult,Male,1,1,0,1
+POLUBINSKI,Mr.,Mikentii,Saved,44,Third,Passenger,Russian,,North Easton,,USA,1,Adult,Male,1,1,1,1
+BARNES,Mr. ,William,Saved,44,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+CASSELS,Miss,Nora Isabel,Lost,44,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+THOMAS,Mr. ,William Stanford,Lost,44,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+FORD,Mr.,John,Lost,45,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+AYALA,Mr.,Julian de,Saved,45,Saloon,Passenger,Cuban,Married,Liverpool,,England,1,Adult,Male,1,1,1,1
+BRUNO,Mr.,Henry Augustine,Lost,45,Saloon,Passenger,British,Married,Montclair,New Jersey,USA,1,Adult,Male,1,1,0,1
+BRUNO,Mrs.,Henry Augustine (Annie Thompson),Lost,45,Saloon,Passenger,British,Married,Montclair,New Jersey,USA,1,Adult,Female,1,0,0,1
+GAUNTLETT,Mr.,Frederic John,Saved,45,Saloon,Passenger,USA,,Washington,District of Columbia,USA,1,Adult,Male,1,1,1,1
+LETTS,Mr.,Gerald Arthur,Lost,45,Saloon,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+LEWIN,Mr.,Frederick Guy,Lost,45,Saloon,Passenger,British,Married,,,England,1,Adult,Male,1,1,0,1
+McMURTRY,Mr.,Frederick Archibald,Lost,45,Saloon,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+SHIELDS,Mr.,Victor E.,Lost,45,Saloon,Passenger,USA,Married,Cincinnati,Ohio,USA,1,Adult,Male,1,1,0,1
+TURTON,Mr.,George Henderson,Saved,45,Saloon,Passenger,British,,Melbourne,Victoria,Australia,1,Adult,Male,1,1,1,1
+VERNON,Mr.,"VERNON, Mr. George Ley Pearce (Butler) (George La Page) ",Lost,45,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,0,1
+BAILEY,Mrs.,Walter George (Jessie Annie Hanford),Lost,45,Second,Passenger,British,Married,Nelson,British Columbia,Canada,1,Adult,Female,1,0,0,1
+ELLIS,Mr.,Herbert,Lost,45,Second,Passenger,British,,,,England,1,Adult,Male,1,1,0,1
+KINCH,Mrs.,William (Eunice Mustoe),Lost,45,Second,Passenger,British,Widowed,Cleveland,Ohio,USA,1,Adult,Female,1,0,0,1
+MITCHELL,Mr.,Arthur Jackson ,Saved,45,Second,Passenger,USA,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+POOLE,Mrs.,Thomas William (Gertrude Kate Elizabeth Veale),Lost,45,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+APRIN,Mr.,Joseph,Lost,45,Third,Passenger,Russian,,Gary,Indiana,USA,1,Adult,Male,1,1,0,1
+BABA,Mr.,Abraham,Lost,45,Third,Passenger,Persian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+BYRNE,Miss,Nellie M.,Lost,45,Third,Passenger,British,,Boston,Massachusetts,USA,1,Adult,Female,1,0,0,1
+DRISCOLL,Mr.,Timothy J.,Lost,45,Third,Passenger,British (Irish)/USA,Separated,Boston,Massachusetts,USA,1,Adult,Male,1,1,0,1
+ORYDYNIEC,Mr.,Andrzej,Lost,45,Third,Passenger,Russian (Polish),,Syracuse,New York,USA,1,Adult,Male,1,1,0,1
+WILLIAMS,Mr.,Thomas,Lost,45,Third,Passenger,British,,Johnstown,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+WORRELL,Mr.,Fred A.,Lost,45,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+DANSON,Mr. ,Richard,Saved,45,Victualling,Crew,British,,Birkenhead,,England,1,Adult,Male,1,1,1,0
+ENDERSON,Mrs.,Anna,Lost,45,Victualling,Crew,Norwegian,,,,,1,Adult,Female,1,0,0,0
+GADD,Mr. ,Lott,Saved,45,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+GARDNER,Mr. ,William George,Lost,45,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+PARRY,Mr. ,Frank,Saved,45,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+COLBERT,Mrs.,William F. (Helena M. Sherlock),Lost,45,Second,Passenger,British (Irish)/USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+ADAMS,Mr.,Arthur Henry,Lost,46,Saloon,Passenger,USA,Married,London,,England,1,Adult,Male,1,1,0,1
+ADAMS,Mrs.,Henry (Annie Elizabeth Macnutt),Saved,46,Saloon,Passenger,British,Married,Boston (?),Massachusetts,Canada and USA,1,Adult,Female,1,0,1,1
+EMOND,Mr.,Walter Alfred,Lost,46,Saloon,Passenger,British,,Quebec,Quebec,Canada,1,Adult,Male,1,1,0,1
+HAMMOND,Mr.,Ogden Haggerty,Saved,46,Saloon,Passenger,USA,Married,Bernardsville and New York,New Jersey and New York,USA,1,Adult,Male,1,1,1,1
+PEARL,Surgeon-Major,"Frederic ""Frank"" Warren",Saved,46,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+ROGERS,Mr.,Percy William,Saved,46,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+CALLAN,Mr.,Patrick,Lost,46,Second,Passenger,USA,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+WILSON,Mrs.,"Patrick (Minnie ""Inez"" Corbett)",Saved,46,Second,Passenger,British,,Moose Jaw,Saskatchewan,Canada,1,Adult,Female,1,0,1,1
+MOSES,Mrs.,George (Janet Lynn),Saved,46,Third,Passenger,British,Married,Wilkinsburg,,USA,1,Adult,Female,1,0,1,1
+OLIVAR,Mr.,Diego,Lost,46,Third,Passenger,Mexican,,New York,New York,USA,1,Adult,Male,1,1,0,1
+STANKIEWICZ,Mr.,Anthony,Lost,46,Third,Passenger,Russian (Polish),,Trenton,New Jersey,USA,1,Adult,Male,1,1,0,1
+BRENNAN,Mr.,Patrick,Lost,47,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+NEEDHAM,Mr.,Patrick,Saved,47,Engineering,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BOUTEILLER,Mrs.,Paul (Elise Schauring) (maid to the Loneys),Lost,47,Saloon,Passenger,French,Widowed,New York,New York,USA,1,Adult,Female,1,0,0,1
+BYRNE,Mr.,Michael G.,Saved,47,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+FOWLES,Mrs.,Charles Frederick (Frances May Turner),Lost,47,Saloon,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+GILPIN,Mr.,George Arthur,Lost,47,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+GRANT,Mr.,Montagu Tassell,Lost,47,Saloon,Passenger,British,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+KELLETT,Mr.,Francis Cranston,Lost,47,Saloon,Passenger,USA,,Tuckahoe,New York,USA,1,Adult,Male,1,1,0,1
+LEAROYD,Mr.,Charles Alfred,Lost,47,Saloon,Passenger,British,Married,Sydney,New South Wales,Australia,1,Adult,Male,1,1,0,1
+DYER,Mr.,Robert,Saved,47,Second,Passenger,USA,,Pittsburgh,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+CRURCHLEY,Mr.,William Henry,Lost,47,Third,Passenger,British,,East Liverpool,,USA,1,Adult,Male,1,1,0,1
+HOOK,Mr.,George (father of Elsie and Frank),Saved,47,Third,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+DENTON,Mr. ,Jonathan S.,Saved,47,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+ANDERSON,Mr.,James Clarke,Lost,48,Deck,Crew,British,,Liverpool,,England,1,Adult,Male,1,1,0,0
+CASEY,Mr.,Patrick,Lost,48,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+LINTON,Mr.,Isaac,Lost,48,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+BALDWIN,Mr.,Harry Bradley,Lost,48,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+CHARLES,Mr.,Joseph Henry,Saved,48,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+DEARBERGH,Mr.,Robert Edward,Lost,48,Saloon,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+FRIEDENSTEIN,Mr.,Joseph,Lost,48,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+GIBSON,Mr.,Matthew Orr,Lost,48,Saloon,Passenger,British,,Glasgow,,Scotland,1,Adult,Male,1,1,0,1
+KLEIN,Mr.,Charles,Lost,48,Saloon,Passenger,British,Married,London,,England,1,Adult,Male,1,1,0,1
+McMURRAY,Mr.,Leonard Leathes,Saved,48,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+MORRISON,Mr.,Kenneth John,Lost,48,Saloon,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+MYERS,Mr.,Joseph Laurence,Saved,48,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+POPE,Miss,Theodate (Effie Brooks Pope),Saved,48,Saloon,Passenger,USA,Single,Farmington,Connecticut,USA,1,Adult,Female,1,0,1,1
+HARRISON,Mr.,James,Lost,48,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+PEACOCK,Mrs.,Elizabeth L. (Elizabeth L. Todd),Saved,48,Second,Passenger,British,Married,Jerome,Arizona,USA,1,Adult,Female,1,0,1,1
+BURKE,Mr.,Ernest James,Lost,48,Third,Passenger,British,Married,Central Falls,Rhode Island,USA,1,Adult,Male,1,1,0,1
+CZERTOWICZ,Mr.,Marcin,Saved,48,Third,Passenger,Russian (Polish),,Philadelphia,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+SIDWELL,Mr.,George,Lost,48,Third,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+WARD,Mr.,George,Saved,48,Third,Passenger,British,Married,Newark,New Jersey,USA,1,Adult,Male,1,1,1,1
+CORBOY,Mr.,Michael,Lost,49,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+BURNSIDE,Mrs.,Thomas David Meldrum (Josephine Smyth Eaton),Saved,49,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+CAIRNS,Mr.,Robert Wishart,Saved,49,Saloon,Passenger,British,,,,,1,Adult,Male,1,1,1,1
+CHABOT,Mr.,David Louis,Lost,49,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+FISHER,Dr.,Howard Lowrie,Saved,49,Saloon,Passenger,USA,Married,Washington,District of Columbia,USA,1,Adult,Male,1,1,1,1
+FOWLES,Mr.,Charles Frederick,Lost,49,Saloon,Passenger,British,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+HARDWICK,Mr.,Charles Cheever,Saved,49,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,1,1
+KING,Mr.,Thomas Boyce,Lost,49,Saloon,Passenger,USA,,Rye,New York,USA,1,Adult,Male,1,1,0,1
+LOCKHART,Mr.,Reginald Raphael,Saved,49,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+ORR-LEWIS,Mr. (later Sir),Frederick,Saved,49,Saloon,Passenger,British,Married,Montreal,Quebec,Canada,1,Adult,Male,1,1,1,1
+OSBORNE,Mrs.,Alexander B. (Alexandra Mary Bryson),Saved,49,Saloon,Passenger,British,,Hamilton,Ontario,Canada,1,Adult,Female,1,0,1,1
+TESSON,Mr.,Frank B.,Lost,49,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+Van STRAATEN,Mr.,Martin,Lost,49,Saloon,Passenger,British/Dutch,,London,,England,1,Adult,Male,1,1,0,1
+WALLACE-WATSON,Mrs.,William (Florence Stancliffe),Lost,49,Saloon,Passenger,British,Married,Montreal,Quebec,Canada,1,Adult,Female,1,0,0,1
+LOYND,Mrs.,David (Alice Grimshaw),Lost,49,Second,Passenger,British,Married,Ottawa or Richmond,Ontario or Indiana,Canada or USA,1,Adult,Female,1,0,0,1
+NAISH,Mrs.,Theodore (Belle Saunders),Saved,49,Second,Passenger,USA,Married,Kansas City,Missouri,USA,1,Adult,Female,1,0,1,1
+WIGGINS,Mrs.,Arthur Vaughn (Sarah Helena Rogerson),Saved,49,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+WOLFENDEN,Mrs.,John Charles (Dora Roden),Saved,49,Second,Passenger,USA,Married,Central Falls,Rhode Island,USA,1,Adult,Female,1,0,1,1
+BISHOP,Mrs.,Joseph (Alice),Lost,49,Third,Passenger,British,Married,Hamilton,Ontario,USA,1,Adult,Female,1,0,0,1
+FERGUSON,Mr.,John,Lost,49,Second,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+CANNON,Mr.,Robert Henry,Lost,50,Deck,Crew,British,,,,,1,Adult,Male,1,1,0,0
+LEDENE,Mr.,Thomas,Lost,50,Deck,Crew,British (Irish),Widower,,,,1,Adult,Male,1,1,0,0
+LEE,Mr.,Daniel,Lost,50,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+MELIA,Mr.,Patrick,Lost,50,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+SHERIDAN,Mr.,Geoffrey,Lost,50,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+ALLES,Mr.,Nicholas Naftel,Saved,50,Saloon,Passenger,USA,?,New York,New York,USA,1,Adult,Male,1,1,1,1
+BAKER,Mr.,James,Saved,50,Saloon,Passenger,British,?,,,England,1,Adult,Male,1,1,1,1
+BILICKE,Mrs.,Albert Clay (Gladys Huff),Saved,50,Saloon,Passenger,USA,Married,South Pasadena,California,USA,1,Adult,Female,1,0,1,1
+BLOOMFIELD,Mr.,Thomas,Lost,50,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+HOME,Mr.,Thomas,Saved,50,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+KESER,Mrs.,Harry J. (Mary Bringhurst Floyd),Lost,50,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+MEDBURY,Mr.,Maurice Benjamin,Lost,50,Saloon,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+LANCASTER,Mr.,Francis William,Lost,50,Second,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+LAWRENCE,Miss,Ella Woods,Lost,50,Second,Passenger,British,Single,Winnipeg,Manitoba,Canada,1,Adult,Female,1,0,0,1
+SANDELLS,Mr.,Thomas,Saved,50,Second,Passenger,British,,Winnipeg,Manitoba,Canada,1,Adult,Male,1,1,1,1
+VARLEY,Miss,Alice Mercy,Lost,50,Second,Passenger,British,Single,East Northfield,,USA,1,Adult,Female,1,0,0,1
+WICKHAM,Mrs.,Nina,Lost,50,Second,Passenger,British,Married,,,New Zealand,1,Adult,Female,1,0,0,1
+BISHOP,Mr.,Joseph,Lost,50,Third,Passenger,British,Married,Hamilton,Ontario,USA,1,Adult,Male,1,1,0,1
+BUDRIN,Mr.,Antoni,Saved,50,Third,Passenger,Russian,,Greaville,,USA,1,Adult,Male,1,1,1,1
+KASIARAN,Mr.,Mirja,Lost,50,Third,Passenger,Russian,,New York,New York,USA,1,Adult,Male,1,1,0,1
+MARCHEWKA,Mr.,Josef,Lost,50,Third,Passenger,Russian,,Three Rivers,,USA,1,Adult,Male,1,1,0,1
+MARKS,Mrs.,G. (Elizabeth Brock),Lost,50,Third,Passenger,British,Married,Bristol,,England,1,Adult,Female,1,0,0,1
+REID,Mr.,John H.,Lost,50,Third,Passenger,British,,Trenton,New Jersey,USA,1,Adult,Male,1,1,0,1
+SHACKNELL,Mr.,William George,Saved,50,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+SIMPSON,Mr.,Edward,Saved,50,Third,Passenger,British,,Lawrence,,USA,1,Adult,Male,1,1,1,1
+CONNELLY,Mr.,Owen,Lost,51,Engineering,Crew,British,Married,New York,New York,USA,1,Adult,Male,1,1,0,0
+PIERPOINT,Detective-Inspector,William John,Saved,51,Saloon,Passenger,British,Married,Liverpool,,England,1,Adult,Male,1,1,1,1
+SCHWARCZ,Mr.,Max M.,Lost,51,Saloon,Passenger,USA,Widowed,New York,New York,USA,1,Adult,Male,1,1,0,1
+TIMMIS,Mr.,Robert James,Saved,51,Saloon,Passenger,British,,Gainesville,Texas,USA,1,Adult,Male,1,1,1,1
+FOLEY,Mr.,Arthur Richard,Lost,51,Second,Passenger,USA,,Trenton,New Jersey,USA,1,Adult,Male,1,1,0,1
+GARRY,Mr.,Christopher,Lost,51,Second,Passenger,USA,Single,Cleveland,Ohio,USA,1,Adult,Male,1,1,0,1
+HANSON,Mr.,Samuel,Lost,51,Second,Passenger,British,Married,Central Falls,Rhode Island,USA,1,Adult,Male,1,1,0,1
+HORTON,Mrs.,Edwin (Elizabeth),Lost,51,Second,Passenger,British,Married,Sheffield,,England,1,Adult,Female,1,0,0,1
+LEE,Miss,Bridget,Saved,51,Second,Passenger,British,Single,New York,New York,USA,1,Adult,Female,1,0,1,1
+LOYND,Reverend,David,Lost,51,Second,Passenger,British,Married,Ottawa or Richmond,Ontario or Indiana,Canada or USA,1,Adult,Male,1,1,0,1
+WOLFENDEN,Mr.,John Charles,Lost,51,Second,Passenger,USA,Married,Central Falls,Rhode Island,USA,1,Adult,Male,1,1,0,1
+WEIR,Mrs.,Margaret,Lost,51,Victualling,Crew,British,,,,,1,Adult,Female,1,0,0,0
+COLBERT,Mr.,William F.,Lost,51,Second,Passenger,British (Irish)/USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+McBRIDE,Mr.,Peter,Lost,52,Engineering,Crew,British (Irish),,Ravensdale,,Ireland,1,Adult,Male,1,1,0,0
+WAREING,Mr.,Richard,Lost,52,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+KESSLER,Mr.,George A.,Saved,52,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,1,1
+PEARSON,Mrs.,Fred Stark (Mabel Ward),Lost,52,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+STEWART,Mr.,Duncan,Lost,52,Saloon,Passenger,British,,Montreal,Quebec,Canada,1,Adult,Male,1,1,0,1
+WATSON,Mrs.,Anthony (Katherine Elam),Lost,52,Saloon,Passenger,USA,Married,,,England,1,Adult,Female,1,0,0,1
+DAVIS,Mrs.,Anna (Anna John),Lost,52,Second,Passenger,USA,Married,Welland,Ontario,Canada,1,Adult,Female,1,0,0,1
+MacFARQUHAR,Mrs.,John (Jane Ann Grant),Saved,52,Second,Passenger,USA,Married,Stratford,Connecticut,USA,1,Adult,Female,1,0,1,1
+DUCKWORTH,Mrs.,Alfred (Elizabeth Ann Smith),Saved,52,Third,Passenger,British,Widowed,Taftville,Connecticut,USA,1,Adult,Female,1,0,1,1
+GRANAHAN,Mr.,Michael,Saved,52,Third,Passenger,British,,Chicago,Illinois,USA,1,Adult,Male,1,1,1,1
+COADY,Mr., James,Lost,53,Engineering,Crew,British (Irish),,,,,1,Adult,Male,1,1,0,0
+COPPING,Mr.,George Robert,Lost,53,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+HUBBARD,Mrs.,Elbert Green (Alice Moore),Lost,53,Saloon,Passenger,USA,Married,East Aurora,New York,USA,1,Adult,Female,1,0,0,1
+KENNEDY,Mrs.,"Caroline ""Carrie"" (Caroline Hickson)",Lost,53,Saloon,Passenger,USA,Widowed (?),New York,New York,USA,1,Adult,Female,1,0,0,1
+PEARSON,Dr.,Fred Stark,Lost,53,Saloon,Passenger,USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+BAILEY,Mr.,Walter George (William),Lost,53,Second,Passenger,British,Married,Nelson,British Columbia,Canada,1,Adult,Male,1,1,0,1
+BEATTIE,Reverend,James Anderson,Lost,53,Second,Passenger,British/USA,Married,New York,New York,USA,1,Adult,Male,1,1,0,1
+MARTIN-DAVEY,Mr.,William (Elizabeth Cumbe Heard),Lost,53,Second,Passenger,British,Married,Vancouver,British Columbia,Canada,1,Adult,Male,1,1,0,1
+HARVEY,Mr.,William,Lost,53,Third,Passenger,USA,,New York,New York,USA,1,Adult,Male,1,1,0,1
+SHARP,Mr.,Samuel S.,Saved,53,Third,Passenger,British,Married,Crooksville,,USA,1,Adult,Male,1,1,1,1
+SHARP,Mrs.,Samuel S. (Mary Jane),Saved,53,Third,Passenger,British,Married,Crooksville,,USA,1,Adult,Female,1,0,1,1
+CHARLTON,Mr. ,George J.,Saved,53,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+RANDALL,Mr. ,Charles,Saved,53,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+COPPING,Mrs.,George Robert (Emma Louisa Black),Lost,53,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+BRYCE,Mr.,Archie,Lost,54,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+CAIN,Mr.,Thomas,Lost,54,Engineering,Crew,British,,,,,1,Adult,Male,1,1,0,0
+BILICKE,Mr.,Albert Clay,Lost,54,Saloon,Passenger,USA,Married,South Pasadena,California,USA,1,Adult,Male,1,1,0,1
+ROBINSON,Mr.,Charles E. H.,Lost,54,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,0,1
+WRIGHT,Mr.,Robert Currie,Saved,54,Saloon,Passenger,USA,Married,Cleveland,Ohio,USA,1,Adult,Male,1,1,1,1
+ANDERSDOTTER,Mrs.,Carolina B.,Lost,54,Third,Passenger,Swedish,Married,Walden,Massachusetts,USA,1,Adult,Female,1,0,0,1
+DOWSLEY,Dr.,David H.,Lost,54,Third,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,0,1
+JONES,Mr. ,John Frederick Valentine,Saved,54,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+BROWN,Mrs.,"F. C. (Mary ""May"" Cummins)",Lost,55,Saloon,Passenger,USA,Widowed,New York,New York,USA,1,Adult,Female,1,0,0,1
+CLARKE,Mr.,Alfred Russell,Saved (died from trauma),55,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+HARPER,Mr.,John Henry,Lost,55,Saloon,Passenger,British,Married,Redditch,,England,1,Adult,Male,1,1,0,1
+JACOBAEUS,Mr.,Sigurd Anton,Lost,55,Saloon,Passenger,Swedish,,,,Sweden,1,Adult,Male,1,1,0,1
+KEMPSON,Mr.,Maitland,Saved,55,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+POWELL,Mr.,George A.,Lost,55,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+BEATTIE,Mrs.,James Anderson (Margaret White Dall),Saved,55,Second,Passenger,British/USA,Married,New York,New York,USA,1,Adult,Female,1,0,1,1
+MAINMAN,Mr.,Alfred Reid,Lost,55,Second,Passenger,British,Married,Edmonton,Alberta,Canada,1,Adult,Male,1,1,0,1
+WILLIAMS,Mrs.,Jane (Jane Jenkyn),Lost,55,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+SETTLE,Mr. ,Vincent,Saved,55,Victualling,Crew,British,,,,,1,Adult,Male,1,1,1,0
+HARMAN,Mr.,John,Saved,56,Deck,Crew,British (Irish),,Liverpool,,Ireland,1,Adult,Male,1,1,1,0
+SHERIDAN,Mr.,Patrick,Lost,56,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+CAMPBELL-JOHNSTON,Mr.,Conway Seymour Godfrey,Lost,56,Saloon,Passenger,British,Married,Los Angeles,California,USA,1,Adult,Male,1,1,0,1
+RYERSON,Mrs.,George Sterling (Mary Amelia Crowther),Lost,56,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+TOWNLEY,Mr.,Ernest Ethelbert,Saved,56,Saloon,Passenger,British,,Toronto,Ontario,Canada,1,Adult,Male,1,1,1,1
+WITHINGTON,Mr.,Lothrop,Lost,56,Saloon,Passenger,USA,Married,Newburyport,Massachusetts,USA,1,Adult,Male,1,1,0,1
+YOUNG,Mrs.,James Mason (Georgina Ann Vernon),Lost,56,Saloon,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Female,1,0,0,1
+BARTLETT,Mr.,Edmund Thomas,Saved,56,Second,Passenger,British,,New York,New York,USA,1,Adult,Male,1,1,1,1
+MACKY,Mrs.,Joseph Cochrane (Mary Birrell),Lost,56,Second,Passenger,British,Married,Devonport,,New Zealand,1,Adult,Female,1,0,0,1
+WORDEN,Mrs.,Charles E. (Jane Goodchild),Lost,56,Second,Passenger,USA,Married,Lowell,Massachusetts,USA,1,Adult,Female,1,0,0,1
+MARTIN,Mrs.,Albert (Laura Truman),Saved,56,Third,Passenger,British,Married,New Philadelphia,Ohio,USA,1,Adult,Female,1,0,1,1
+BROWN,Mr.,John Manson George,Lost,57,Deck,Crew,British,,,,,1,Adult,Male,1,1,0,0
+CAMPBELL-JOHNSTON,Mrs.,Conway Seymour Godfrey (Ida Amelia McBride),Lost,57,Saloon,Passenger,British,Married,Los Angeles,California,USA,1,Adult,Female,1,0,0,1
+HICKSON,Miss,Kathryn,Lost,57,Saloon,Passenger,USA,Single,New York,New York,USA,1,Adult,Female,1,0,0,1
+KNOX,Mr.,Samuel McIlhenny,Saved,57,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+WILLEY,Mrs.,Cameron (Catherine E. Dietrich),Lost,57,Saloon,Passenger,USA,Divorced,Lake Forest,Illinois,USA,1,Adult,Female,1,0,0,1
+MENZIES,Miss,Isabella,Lost,57,Second,Passenger,British,Single,Yakima,Washington,USA,1,Adult,Female,1,0,0,1
+STEVENS,Mr.,Charles Henry,Lost,57,Second,Passenger,USA,Married,Atlantic City,New Jersey,USA,1,Adult,Male,1,1,0,1
+CARLSON,Mr.,C. J.,Lost,57,Third,Passenger,Swedish,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+TURNER,Captain,William Thomas,Saved,58,Deck,Crew,British,Separated,Liverpool,,England,1,Adult,Male,1,1,1,0
+MURPHY,Mr.,Matthew,Lost,58,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+ADAMS,Mr.,Henry,Lost,58,Saloon,Passenger,British,Married,Tenby,,England,1,Adult,Male,1,1,0,1
+FROHMAN,Mr.,Charles,Lost,58,Saloon,Passenger,USA,Single,New York,New York,USA,1,Adult,Male,1,1,0,1
+HUBBARD,Mr.,Elbert Green,Lost,58,Saloon,Passenger,USA,Married,East Aurora,New York,USA,1,Adult,Male,1,1,0,1
+PLAMONDON,Mrs.,Charles Ambrose (Mary Letitia Mackin),Lost,58,Saloon,Passenger,USA,Married,Chicago,Illinois,USA,1,Adult,Female,1,0,0,1
+MOUNSEY,Mr.,William Edgar,Lost,58,Second,Passenger,USA ? or British,Widowed,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+CASSIDY,Mr.,Bernard,Lost,59,Engineering,Crew,British (Irish),,Liverpool,,England,1,Adult,Male,1,1,0,0
+CHAPMAN,Mrs.,William Henry (Ellen Elizabeth Nottingham),Saved,59,Saloon,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+MACDONA,Mrs.,Henry D. (Amelia Herbert),Lost,59,Saloon,Passenger,USA,Widowed,New York,New York,USA,1,Adult,Female,1,0,0,1
+PIRIE,Mr.,Robinson,Saved,59,Saloon,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Male,1,1,1,1
+PLAMONDON,Mr.,Charles Ambrose,Lost,59,Saloon,Passenger,USA,Married,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+ROBINSON,Mrs.,Charles E. H. (Prudence Mary Rose),Lost,59,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+THOMAS,Mr.,David Alfred,Saved,59,Saloon,Passenger,British,Married,Cardiff,,Wales,1,Adult,Male,1,1,1,1
+AITKEN,Mr.,James,Lost,59,Second,Passenger,British,Widowed,Merritt,British Columbia,Canada,1,Adult,Male,1,1,0,1
+FULTON,Mr.,John Napier,Lost,59,Second,Passenger,USA,,Montréal,Quebec,Canada,1,Adult,Male,1,1,0,1
+HANSON,Mrs.,Samuel (Mary Harrison),Lost,59,Second,Passenger,British,Married,Central Falls,Rhode Island,USA,1,Adult,Female,1,0,0,1
+KING,Mrs.,Sidney (Martha Frances),Lost,59,Second,Passenger,British,Married,Lockport,New York,USA,1,Adult,Female,1,0,0,1
+NAISH,Mr.,Theodore,Lost,59,Second,Passenger,USA,Married,Kansas City,Missouri,USA,1,Adult,Male,1,1,0,1
+WISE,Sister,Isabel Eloise,Lost,59,Second,Passenger,British,Single,,,Jamaica,1,Adult,Female,1,0,0,1
+KOCZURKO,Mr.,Wilkenti,Lost,59,Third,Passenger,Russian,,Chicago,Illinois,USA,1,Adult,Male,1,1,0,1
+GRAY,Mr.,James Paul,Saved,59,Second,Passenger,British,Married,Oakland,California,USA,1,Adult,Male,1,1,1,1
+RICE,Mr.,Michael,Lost,60,Engineering,Crew,British (Irish),,,,Ireland,1,Adult,Male,1,1,0,0
+McCONNEL,Mr.,John Wanklyn,Saved,60,Saloon,Passenger,British,Married,Manchester,,England,1,Adult,Male,1,1,1,1
+TESSON,Mrs.,Frank B. (Alice Lowe Atkins),Lost,60,Saloon,Passenger,USA,Married,Philadephia,Pennsylvania,USA,1,Adult,Female,1,0,0,1
+YOUNG,Mr.,James Mason,Lost,60,Saloon,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Male,1,1,0,1
+GILSENAN,Mr.,Hugh,Lost,60,Second,Passenger,USA,,Long Island City,New York,USA,1,Adult,Male,1,1,0,1
+LEVERICH,Mrs.,William Edward (Rosina Thomas Philips),Lost,60,Second,Passenger,USA,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+MACKY,Mr.,Joseph Cochrane,Lost,60,Second,Passenger,British,Married,Devonport,,New Zealand,1,Adult,Male,1,1,0,1
+WHYATT,Mrs.,Aaron Taylor (Martha Ann Bussey),Saved,60,Second,Passenger,British,Widowed,New Bedford,Massachusetts,USA,1,Adult,Female,1,0,1,1
+NAUMANN,Mr.,Frank Gustavus,Lost,61,Saloon,Passenger,British,,Cranleigh,,England,1,Adult,Male,1,1,0,1
+HARRIS,Mrs.,Reuben (Emma),Lost,61,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+PLANK,Mrs.,David (Harriet Slinger),Saved (died from trauma),61,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,0,1
+DINGWALL,Mr.,Charles Arthur,Lost,62,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+BULL,Mrs.,John Henry (Elizabeth Farrar),Lost,62,Second,Passenger,British,Married,Hamilton,Ontario,Canada,1,Adult,Female,1,0,0,1
+MOORE,Mr.,Edwin,Lost,62,Second,Passenger,British,Married,Central Falls,Rhode Island,USA,1,Adult,Male,1,1,0,1
+TREVERROW,Mrs.,Caroline (Caroline Richards),Lost,62,Second,Passenger,British,,Butte,Montana,USA,1,Adult,Female,1,0,0,1
+McCUBBIN,Mr. ,James Alexander,Lost,62,Victualling,Crew,British,Widowed,Liverpool,,England,1,Adult,Male,1,1,0,0
+MUIR,Mr.,Matthew,Saved,62,Second,Passenger,British,,Philadelphia,Pennsylvania,USA,1,Adult,Male,1,1,1,1
+PAYNTER,Mr.,Charles Edwin,Lost,63,Saloon,Passenger,British,Married,Liverpool,,England,1,Adult,Male,1,1,0,1
+MacGREGOR,Mrs.,Betsy,Lost,63,Second,Passenger,British,Married,New York,New York,USA,1,Adult,Female,1,0,0,1
+HARRIS,Mr.,Reuben,Lost,63,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Male,1,1,0,1
+BRODRICK-CLOETE,Mr.,William,Lost,63,Saloon,Passenger,British,,London,,England,1,Adult,Male,1,1,0,1
+CLARKE,Reverend,Charles Cowley,Saved,64,Saloon,Passenger,British,,Clifton,,England,1,Adult,Male,1,1,1,1
+STEPHENS,Mrs.,George Washington (Frances Ramsey McIntosh),Lost,64,Saloon,Passenger,British,Widowed,Montreal,Quebec,Canada,1,Adult,Female,1,0,0,1
+LEIGH,Mr.,Evan Arthur,Lost,65,Saloon,Passenger,British,,Liverpool,,England,1,Adult,Male,1,1,0,1
+AMORY,Mrs.,Alfred Howard (Phoebe Sledge),Saved,65,Second,Passenger,British,Married,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
+FYFE,Mrs.,James (Jeanie Graham),Saved,65,Second,Passenger,USA,Married,Holyoke,,USA,1,Adult,Female,1,0,1,1
+JONES,Mr.,Evan,Lost,65,Third,Passenger,USA,,Ottumwa,Iowa,USA,1,Adult,Male,1,1,0,1
+KNIGHT,Mr. ,Charles,Saved (died from trauma),65,Victualling,Crew,British,,,,,1,Adult,Male,1,1,0,0
+JACOBS,Mrs.,Abraham (Liba Bella Chirug),Lost,67,Third,Passenger,British,Married,London,,England,1,Adult,Female,1,0,0,1
+MATURIN,Father,Basil William,Lost,68,Saloon,Passenger,British,Single,Holywell Oxford,,England,1,Adult,Male,1,1,0,1
+WEBB,Mrs.,Elizabeth,Lost,69,Third,Passenger,British,Married,Medforth,,USA,1,Adult,Female,1,0,0,1
+MOODY,Mrs.,Martha (Martha Hemphill),Lost,70,Second,Passenger,British (Irish),Married,Limavady,County Londonderry,Ireland,1,Adult,Female,1,0,0,1
+VARCOE,Mr.,John Francis (Lavinia Woodgate),Lost,70,Second,Passenger,British,Married,Kansas City,Missouri,USA,1,Adult,Male,1,1,0,1
+GROVES,Mr.,George,Lost,70,Third,Passenger,British/USA,,Gainsborough,Lincoln,England,1,Adult,Male,1,1,0,1
+JOHNSON,Mr.,Albert E.,Lost,72,Third,Passenger,British,,Canada,,Canada,1,Adult,Male,1,1,0,1
+JENKINS,Mr.,Alfred,Lost,73,Third,Passenger,British,,,,Canada,1,Adult,Male,1,1,0,1
+MORELL,Mrs.,"Moses ""Max"" Samuel (Goldiana ""Georgina"" Ambler)",Saved,76,Saloon,Passenger,British,Widowed,Toronto,Ontario,Canada,1,Adult,Female,1,0,1,1
