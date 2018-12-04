@@ -72,7 +72,7 @@ var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
 var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
 
 // Select body, append SVG area to it, and set the dimensions
-var svg = d3.select("body")
+var svg = d3.select(".bar")
   .append("svg")
   .attr("height", svgHeight)
   .attr("width", svgWidth);

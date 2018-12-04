@@ -21,9 +21,14 @@
   text-anchor: end;
 }
 
-.bar:hover {
-  fill: brown;
+.bar {
+  fill: orange;
 }
+
+.bar:hover {
+  fill: green;
+}
+
 
 .axis path,
 .axis line {
