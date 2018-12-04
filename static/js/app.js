@@ -41,6 +41,11 @@ var total = [data["0"]["0"]["0"] + data["0"]["1"]["0"], data["1"]["0"]["0"] + da
             data["8"]["0"]["0"] + data["8"]["1"]["0"], data["9"]["0"]["0"] + data["9"]["1"]["0"],
             data["10"]["0"]["0"] + data["10"]["1"]["0"], data["11"]["0"]["0"] + data["11"]["1"]["0"]]
 
+var survived = [data["0"]["1"]["0"], data["1"]["1"]["0"], data["2"]["1"]["0"], 
+                data["3"]["1"]["0"], data["4"]["1"]["0"], data["5"]["1"]["0"], 
+                data["6"]["1"]["0"], data["7"]["1"]["0"], data["8"]["1"]["0"], 
+                data["9"]["1"]["0"], data["10"]["1"]["0"], data["11"]["1"]["0"]]
+
 var columns = ["Male", "Female", "Passenger", "Crew", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty"]
 
 var obj = {}
