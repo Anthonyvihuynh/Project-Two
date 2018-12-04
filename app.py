@@ -181,21 +181,21 @@ def get_barchart_data():
 	barChartData.append(male)
 
 	female = db.session.query(
-		func.count(Passengers.male))\
+		func.count(Passengers.sex))\
 		.group_by(Passengers.survived)\
-		.filter(Passengers.male == 0).all()
+		.filter(Passengers.sex == "Female").all()
 	barChartData.append(female)
 
 	passenger = db.session.query(
-		func.count(Passengers.passenger))\
+		func.count(Passengers.passengercrew))\
 		.group_by(Passengers.survived)\
-		.filter(Passengers.passenger == 1).all()
+		.filter(Passengers.passengercrew == "Passenger").all()
 	barChartData.append(passenger)
 
 	crew = db.session.query(
-		func.count(Passengers.passenger))\
+		func.count(Passengers.passengercrew))\
 		.group_by(Passengers.survived)\
-		.filter(Passengers.passenger == 0).all()
+		.filter(Passengers.passengercrew == "Crew").all()
 	barChartData.append(crew)
 
 	ten = db.session.query(

@@ -10,7 +10,7 @@ var url = ["/barchartdata"]
 // female data["1"]
 // passenger 2
 // crew 3
-// ten 4
+// 1-10 4
 // twenty 5
 // thirty 6
 // fourty 7
@@ -19,39 +19,104 @@ var url = ["/barchartdata"]
 // seventy 10
 // eighty 11
 
-var labels = ["Male", "Female", "Passenger", "Crew", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty"]
+d3.json(url).then(function(data) {
 
-console.log(labels)
+var all = [{"Males": data["0"]["0"]["0"] + data["0"]["1"]["0"]},
+            {"Females": data["1"]["0"]["0"] + data["1"]["1"]["0"]},
+            {"Passengers": data["2"]["0"]["0"] + data["2"]["1"]["0"]},            
+            {"Crew": data["3"]["0"]["0"] + data["3"]["1"]["0"]},
+            {"1-10": data["4"]["0"]["0"] + data["4"]["1"]["0"]},
+            {"11-20": data["5"]["0"]["0"] + data["5"]["1"]["0"]},
+            {"21-30": data["6"]["0"]["0"] + data["6"]["1"]["0"]},
+            {"31-40": data["7"]["0"]["0"] + data["7"]["1"]["0"]},
+            {"41-50": data["8"]["0"]["0"] + data["8"]["1"]["0"]},
+            {"51-60": data["9"]["0"]["0"] + data["9"]["1"]["0"]},
+            {"61-70": data["10"]["0"]["0"] + data["10"]["1"]["0"]},
+            {"71-80": data["11"]["0"]["0"] + data["11"]["1"]["0"]}]
 
-var svg = d3.select("body").append("svg"),
-    margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = +svg.attr("width") - margin.left - margin.right,
-    height = +svg.attr("height") - margin.top - margin.bottom,
-    g = svg.append("g").attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var total = [data["0"]["0"]["0"] + data["0"]["1"]["0"], data["1"]["0"]["0"] + data["1"]["1"]["0"],
+            data["2"]["0"]["0"] + data["2"]["1"]["0"], data["3"]["0"]["0"] + data["3"]["1"]["0"],
+            data["4"]["0"]["0"] + data["4"]["1"]["0"], data["5"]["0"]["0"] + data["5"]["1"]["0"],
+            data["6"]["0"]["0"] + data["6"]["1"]["0"], data["7"]["0"]["0"] + data["7"]["1"]["0"],
+            data["8"]["0"]["0"] + data["8"]["1"]["0"], data["9"]["0"]["0"] + data["9"]["1"]["0"],
+            data["10"]["0"]["0"] + data["10"]["1"]["0"], data["11"]["0"]["0"] + data["11"]["1"]["0"]]
 
-var x0 = d3.scaleBand()
-  .rangeRound([0, width])
-  .paddingInner(0.1);
+var columns = ["Male", "Female", "Passenger", "Crew", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty"]
 
-var x1 = d3.scaleBand()
-  .padding(0.05);
+var obj = {}
+for (var i = 0; i < columns.length; i++) {
+    obj[columns[i]] = total[i]
+}
 
-var y = d3.scaleLinear()
-  .rangeRound([height, 0]);
+console.log(obj)
 
-var z = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+// Define SVG area dimensions
+var svgWidth = 960;
+var svgHeight = 660;
 
-d3.json(url).then(function(d, i, labels) {
-  for (var i = 1, n = labels.length; i < n; ++i) d[labels[i]] = +d[labels[i]];
-  return d;
-}, function(error, data) {
+// Define the chart's margins as an object
+var chartMargin = {
+  top: 30,
+  right: 30,
+  bottom: 30,
+  left: 30
+};
 
-  var keys = data.labels.slice(1);
+// Define dimensions of the chart area
+var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
+var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
 
-  x0.domain(data.map(function(d) { return d.State; }));
-  x1.domain(keys).rangeRound([0, x0.bandwidth()]);
-  y.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
+// Select body, append SVG area to it, and set the dimensions
+var svg = d3.select("body")
+  .append("svg")
+  .attr("height", svgHeight)
+  .attr("width", svgWidth);
+
+// Append a group to the SVG area and shift ('translate') it to the right and to the bottom
+var chartGroup = svg.append("g")
+  .attr("transform", `translate(${chartMargin.left}, ${chartMargin.top})`);
+
+// obj.forEach(function(d) {
+//     d.total = +d.total;
+  // });
+console.log(Object.keys(obj));
+
+  var xBandScale = d3.scaleBand()
+    .domain(columns)
+    .range([0, chartWidth])
+    .padding(0.1);
+
+  // Create a linear scale for the vertical axis.
+  var yLinearScale = d3.scaleLinear()
+    .domain([0, 1000]) //d3.max(tvData.map(d => d.hours));
+    .range([chartHeight, 0]);
+
+  // Create two new functions passing our scales in as arguments
+  // These will be used to create the chart's axes
+  var bottomAxis = d3.axisBottom(xBandScale);
+  var leftAxis = d3.axisLeft(yLinearScale).ticks(10);
+
+  // Append two SVG group elements to the chartGroup area,
+  // and create the bottom and left axes inside of them
+  chartGroup.append("g")
+    .call(leftAxis);
+
+  chartGroup.append("g")
+    .attr("transform", `translate(0, ${chartHeight})`)
+    .call(bottomAxis);
+
+  // Create one SVG rectangle per piece of tvData
+  // Use the linear and band scales to position each rectangle within the chart
+  chartGroup.selectAll(".bar")
+  // svg.selectAll(".bar")
+    .data(obj)
+    .enter()
+    .append("rect")
+    .attr("class", "bar")
+    .attr("x", xBandScale(columns))
+    .attr("y", yLinearScale(total))
+    .attr("width", xBandScale.bandwidth())
+    .attr("height", chartHeight - yLinearScale(total));
 
 
 //     var trace = {
@@ -76,8 +141,9 @@ d3.json(url).then(function(d, i, labels) {
 //     Plotly.newPlot("plot", data, layout);
 
 
-});
-}
+})
+};
+
 
 // });
 // };
