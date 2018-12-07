@@ -1,27 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Shipwreck! </title>
+  <meta charset="UTF-8">
+  <title>Lusitania</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" type="static/css" href="style.css">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
 </head>
+
 <body>
-    <div id="plot"></div>
-    <svg></svg>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-	  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <div id='layout'>
-    <!-- <h2>Bar chart example</h2> -->
-    <div id='container'>
-      <svg viewBox='0 0 750 500'/>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a class="navbar-brand">Team 1</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Graphs <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Home</a></li>
+              <li><a href="age">Age</a></li>
+              <li><a href="gender">Gender</a></li>
+              <li><a href="passenger">Passenger vs Crew</a></li>
+            </ul>
+          </li>
+        </ul>
+          </li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+  <div class="container">
+    <div class="jumbotron">
+      <h1>The Lost Souls of the Lusitania</h1>
+      <p><ul>
+      <li>Min Jae Kim</li>
+      <li>Anthony Huynh</li>
+      <li>Janette Bennett</li></p>
+      <img src="https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2014/03/lusitania-new-york-times-newspaper.jpeg?fit=1200%2C794&ssl=1" alt="New York Times Lusitania" style="width:90%">
     </div>
   </div>
+
+  <div class="container">
+    <h3 class="text-center">The Tragic Sinking</h3>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <img src="https://www.irishcentral.com/uploads/article/3109/cropped_MI-Lusitania-ship-sinking-wikimedia.jpg?t=1525475401" alt="...">
+          <div class="caption">
+            <h3>The Torpedo</h3>
+            <p>On the afternoon of 7 May, a German U-boat torpedoed Lusitania, 11 mi (18 km) off the southern coast of Ireland and inside the declared war zone.</p>
+            <p>A second, unexplained, internal explosion, likely munitions she was carrying, sent her to the seabed in 18 minutes, with the deaths of approximately 1,198 passengers and crew (figures vary from records at the time).</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <img src="http://www.trbimg.com/img-5ae0f9c5/turbine/sd-1524693437-b7106h0x6i-snap-image" alt="...">
+          <div class="caption">
+            <h3>The Germans</h3>
+            <p>   <p>Because the Germans sank, without warning, what was a completely defenseless, officially non-military ship, killing almost a thousand civilians, many of whom were children, they were accused of breaching the internationally recognized Cruiser Rules.</p>
+            <p>The Germans claimed that since it had been secretly carrying munitions, it was operating as a military ship.</p></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="thumbnail">
+          <img src="https://slideplayer.com/slide/11934738/67/images/8/Sinking+of+RMS+Lusitania.jpg" alt="...">
+          <div class="caption">
+            <h3>World War 1</h3>
+            <p>   <p>The sentiment regarding the sinking of the Lusitania helped propel the United States into World War 1 against the Germans in 1917.</p>
+            <p>Wreck lies approximately 11 mi (18 km) off the Old Head of Kinsale Lighthouse in 300 ft (91 m) of water at 51°25′N 8°33′W.</p>
+            <p><em>(source: <a href="https://en.wikipedia.org/wiki/RMS_Lusitania">https://en.wikipedia.org/wiki/RMS_Lusitania</a>; December 4, 2018).</em></p></p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-12">
+            <h3>How does the Lusitania compare with the Titanic?</h3>
+			<iframe width="933" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiMzc2MzViNGItYjM1YS00MGE4LWIyN2UtN2E2MDE3YWZmMTllIiwidCI6IjhlMTg2OWQ1LTJiNWUtNDQzYS04MGVkLWY5MjY5ODFkODU4MCIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+   </div>
+  <div class="chart">
+  </div>
+  <svg class="chart"></svg>
+  <script type="text/javascript" src="app.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
 </body>
 
 </html>
-

@@ -38,6 +38,18 @@ class Passengers(db.Model):
 def setup():
     db.create_all()
 
+@app.route("/age")
+def age():
+    return render_template("age.html")
+
+@app.route("/gender")
+def gender():
+    return render_template("gender.html")
+
+@app.route("/passenger")
+def passenger():
+    return render_template("passenger.html")    
+
 @app.route("/")
 def home():
     return render_template("index.html")
@@ -78,14 +90,14 @@ def ftable():
 	print(results)
 	return jsonify(json_list = results)
 
-@app.route("/passenger")
-def ptable():
-	results = db.session.query(
-		func.count(Passengers.passenger))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.passenger == 1).all()
-	print(results)
-	return jsonify(json_list = results)
+# @app.route("/passenger")
+# def ptable():
+# 	results = db.session.query(
+# 		func.count(Passengers.passenger))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.passenger == 1).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
 
 @app.route("/crew")
 def crew_table():

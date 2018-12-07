@@ -19,9 +19,8 @@ function buildPlot() {
 
     console.log(response);
     var trace = {
-      type: "scatter",
-      mode: "lines",
-      name: "Survivorship by citizenship",
+      type: "bar",
+      name: "Survivorship by gender",
       x: response.map(data => data.citizenship),
       y: response.map(data => data.survived),
       line: {
