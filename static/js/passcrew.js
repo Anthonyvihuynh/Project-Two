@@ -56,10 +56,10 @@ var obj = [
   ]
 
 var data = [
-  {name: "Passenger (Survived)", value: 40},
-  {name: "Passenger (Lost)", value: 20},
-  {name: "Crew (Survived)", value: 30},
-  {name: "Crew (Lost)", value: 10},
+  {name: "Passenger (Survived)", value: obj[2]["saved"]},
+  {name: "Passenger (Lost)", value: obj[2]["died"]},
+  {name: "Crew (Survived)", value: obj[3]["saved"]},
+  {name: "Crew (Lost)", value: obj[3]['died']},
 ];
 
 var text = "";

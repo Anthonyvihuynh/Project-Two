@@ -3,25 +3,6 @@ from sqlalchemy import create_engine
 import csv
 import pandas
 
-# f = open("lusitaniaclean.csv", 'r') 
-# next(f, None) 
-# reader = csv.reader(f)
-
-# sql = sqlite3.connect("lusitaniaclean.db")
-# cur = sql.cursor()
-
-# cur.execute('''CREATE TABLE IF NOT EXISTS passengers
-# 			(context text, response text, score real)''')
-
-# for row in reader:
-# 	cur.execute("INSERT INTO passengers VALUES", row)
-
-# f.close()
-# sql.commit()
-# sql.close()
-# -----------------
-
-
 # con = sqlite3.connect(":memory:")
 con = sqlite3.connect("lusitaniaclean2.sqlite")
 

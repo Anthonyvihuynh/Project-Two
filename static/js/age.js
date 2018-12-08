@@ -21,8 +21,7 @@ var url = ["/barchartdata"]
 
 d3.json(url).then(function(data) {
 
-var totals = [data["0"]["0"]["0"] + data["0"]["1"]["0"], data["1"]["0"]["0"] + data["1"]["1"]["0"],
-            data["2"]["0"]["0"] + data["2"]["1"]["0"], data["3"]["0"]["0"] + data["3"]["1"]["0"],
+var totals = [
             data["4"]["0"]["0"] + data["4"]["1"]["0"], data["5"]["0"]["0"] + data["5"]["1"]["0"],
             data["6"]["0"]["0"] + data["6"]["1"]["0"], data["7"]["0"]["0"] + data["7"]["1"]["0"],
             data["8"]["0"]["0"] + data["8"]["1"]["0"], data["9"]["0"]["0"] + data["9"]["1"]["0"],
@@ -38,13 +37,13 @@ var lost = [data["0"]["0"]["0"], data["1"]["0"]["0"], data["2"]["0"]["0"],
                 data["6"]["0"]["0"], data["7"]["0"]["0"], data["8"]["0"]["0"], 
                 data["9"]["0"]["0"], data["10"]["0"]["0"], data["11"]["0"]["0"]]
 
-var columns = ["Male", "Female", "Passenger", "Crew", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty"]
+var columns = ["0-10", "11-20", "21-30", "31-40", "41-50", "51-60", "61-70", "71-80"]
 
 var obj = [
-  {group: columns[0], total: totals[0], saved: survived[0], died: lost[0]},
-  {group: columns[1], total: totals[1], saved: survived[1], died: lost[1]},
-  {group: columns[2], total: totals[2], saved: survived[2], died: lost[2]},
-  {group: columns[3], total: totals[3], saved: survived[3], died: lost[3]},
+  // {group: columns[0], total: totals[0], saved: survived[0], died: lost[0]},
+  // {group: columns[1], total: totals[1], saved: survived[1], died: lost[1]},
+  // {group: columns[2], total: totals[2], saved: survived[2], died: lost[2]},
+  // {group: columns[3], total: totals[3], saved: survived[3], died: lost[3]},
   {group: columns[4], total: totals[4], saved: survived[4], died: lost[4]},
   {group: columns[5], total: totals[5], saved: survived[5], died: lost[5]},
   {group: columns[6], total: totals[6], saved: survived[6], died: lost[6]},
@@ -117,7 +116,7 @@ var dataCategories = columns;
         .call(yAxis);
 
 
-  chartGroup.selectAll("rect")
+  var barchart = chartGroup.selectAll("rect")
         .data(dataArray)
         .enter()
         .append("rect")
@@ -128,18 +127,41 @@ var dataCategories = columns;
         .attr("fill", "green")
         // event listener for onclick event
         .on("click", function(d, i) {
-          alert(`Hey! You clicked bar ${dataCategories[i]}!`);
-        })
-        // event listener for mouseover
+          alert(`
+            Survived: ${obj[i]["saved"]}
+            Lost: ${obj[i]["died"]}
+            Percentage saved: ${Math.round(10000*obj[i]["saved"]/(obj[i]["saved"]+obj[i]["died"]))/100}`)})
         .on("mouseover", function() {
-          d3.select(this)
-                .attr("fill", "red");
-        })
-        // event listener for mouseout
+        d3.select(this)
+            .transition()
+            .duration(500)
+            .attr("fill", "red");
+})
         .on("mouseout", function() {
-          d3.select(this)
-                .attr("fill", "green");
+        d3.select(this)
+            .transition()
+            .duration(500)
+            .attr("fill", "green");
+    });
+
+    var toolTip = d3.tip()
+        .attr("class", "tooltip")
+        .offset([20, -5])
+        .html(function(d) {
+          return ("Click me!");
         });
+
+      // Step 2: Create the tooltip in chartGroup.
+      chartGroup.call(toolTip);
+
+      // Step 3: Create "mouseover" event listener to display tooltip
+      barchart.on("mouseover", function(d) {
+        toolTip.show(d, this);
+      })
+      // Step 4: Create "mouseout" event listener to hide tooltip
+        .on("mouseout", function(d) {
+          toolTip.hide(d);
+                  });
 
 chartGroup.selectAll("text.bar")
 .data(dataArray)
@@ -159,11 +181,7 @@ chartGroup.selectAll("text")
   .attr("y", d => yScale(d) + 10)
   .text((d, i) => survived[i]);
 
-}
-
-
-
-
+});
 
     // const sample = [
     //   {
@@ -480,7 +498,7 @@ chartGroup.selectAll("text")
 //     Plotly.newPlot("plot", data, layout);
 
 
-)}
+}
 
 
 

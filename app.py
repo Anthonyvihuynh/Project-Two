@@ -50,6 +50,10 @@ def gender():
 def passenger():
     return render_template("passenger.html")    
 
+@app.route("/info")
+def famouspeople():
+    return render_template("famouspeople.html")     
+
 @app.route("/")
 def home():
     return render_template("index.html")
@@ -71,114 +75,6 @@ def table():
     	}
     		for item in results
     	])
-
-@app.route("/male")
-def mtable():
-	results = db.session.query(
-		func.count(Passengers.sex))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.sex == "Male").all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/female")
-def ftable():
-	results = db.session.query(
-		func.count(Passengers.male))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.male == 0).all()
-	print(results)
-	return jsonify(json_list = results)
-
-# @app.route("/passenger")
-# def ptable():
-# 	results = db.session.query(
-# 		func.count(Passengers.passenger))\
-# 		.group_by(Passengers.survived)\
-# 		.filter(Passengers.passenger == 1).all()
-# 	print(results)
-# 	return jsonify(json_list = results)
-
-@app.route("/crew")
-def crew_table():
-	results = db.session.query(
-		func.count(Passengers.passenger))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.passenger == 0).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/ten")
-def ten_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 0).filter(Passengers.age <= 10).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/twenty")
-def twen_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 11).filter(Passengers.age <= 20).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/thirty")
-def thir_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 21).filter(Passengers.age <= 30).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/fourty")
-def four_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 31).filter(Passengers.age <= 40).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/fifty")
-def fift_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 41).filter(Passengers.age <= 50).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/sixty")
-def sixt_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 51).filter(Passengers.age <= 60).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/seventy")
-def seve_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 61).filter(Passengers.age <= 70).all()
-	print(results)
-	return jsonify(json_list = results)
-
-@app.route("/eighty")
-def eigh_table():
-	results = db.session.query(
-		func.count(Passengers.age))\
-		.group_by(Passengers.survived)\
-		.filter(Passengers.age >= 71).filter(Passengers.age <= 80).all()
-	print(results)
-	return jsonify(json_list = results)
 
 @app.route("/barchartdata")
 def get_barchart_data():
@@ -264,6 +160,113 @@ def get_barchart_data():
 if __name__ == "__main__":
     app.run(debug=True)
 
+# @app.route("/male")
+# def mtable():
+# 	results = db.session.query(
+# 		func.count(Passengers.sex))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.sex == "Male").all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/female")
+# def ftable():
+# 	results = db.session.query(
+# 		func.count(Passengers.male))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.male == 0).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/passenger")
+# def ptable():
+# 	results = db.session.query(
+# 		func.count(Passengers.passenger))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.passenger == 1).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/crew")
+# def crew_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.passenger))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.passenger == 0).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/ten")
+# def ten_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 0).filter(Passengers.age <= 10).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/twenty")
+# def twen_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 11).filter(Passengers.age <= 20).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/thirty")
+# def thir_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 21).filter(Passengers.age <= 30).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/fourty")
+# def four_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 31).filter(Passengers.age <= 40).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/fifty")
+# def fift_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 41).filter(Passengers.age <= 50).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/sixty")
+# def sixt_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 51).filter(Passengers.age <= 60).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/seventy")
+# def seve_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 61).filter(Passengers.age <= 70).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
+
+# @app.route("/eighty")
+# def eigh_table():
+# 	results = db.session.query(
+# 		func.count(Passengers.age))\
+# 		.group_by(Passengers.survived)\
+# 		.filter(Passengers.age >= 71).filter(Passengers.age <= 80).all()
+# 	print(results)
+# 	return jsonify(json_list = results)
 
 # var passengerData = d3.csv("lusitaniaclean.csv")
 #  .then(function(passenger) {
